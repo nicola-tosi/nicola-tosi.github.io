@@ -78,11 +78,25 @@ Schulz F.\*, N. Tosi, A.-C. Plesa, D. Breuer (2020). [Stagnant-lid convection wi
 - Plesa A.-C., N. Tosi, M. Grott and D. Breuer (2015). [Thermal evolution and Urey ratio of Mars](http://onlinelibrary.wiley.com/doi/10.1002/2014JE004748/abstract). Journal of Geophysical Research - Planets, 120, 995-1010, doi:10.1002/2014JE004748.
 Padovan S., M. Wieczorek, J.-L. Margot, N. Tosi and S. Solomon (2015). [Thickness of the crust of Mercury from geoid-to-topography ratios](http://onlinelibrary.wiley.com/doi/10.1002/2014GL062487/abstract). Geophysical Research Letters, 42, 1029-1038, doi:10.1002/2014GL062487.
 
+2015
+======
+- Tosi N., D. Breuer, T. Spohn (2014). [Evolution of planetary interiors](http://store.elsevier.com/Encyclopedia-of-the-Solar-System/isbn-9780124158450/). Encyclopedia of the Solar System (3rd Edition), T. Spohn, D. Breuer and T. Johnson (eds.), Elsevier, Ch. 9, 185-208, doi:10.1016/B978-0-12-415845-0.00009-8.
+- Plesa A.-C., N. Tosi and D. Breuer (2014). [Can a fractionally crystallized magma ocean explain the thermo-chemical evolution of Mars?](http://www.sciencedirect.com/science/article/pii/S0012821X14004191) Earth and Planetary Science Letters, 403, 225-235, doi:10.1016/j.epsl.2014.06.034.
 
+2014
+======
+- Tosi N., M. Grott, A.-C. Plesa and D. Breuer (2013). [Thermo-chemical evolution of Mercury's interior](http://onlinelibrary.wiley.com/doi/10.1002/jgre.20168/abstract). Journal of Geophysical Research - Planets, 118, 2474-2487, doi:10.1002/jgre.20168.
+- Tosi N., A.-C. Plesa and D. Breuer (2013). [Overturn and evolution of a crystallized magma ocean: a numerical parameter study for Mars](http://onlinelibrary.wiley.com/doi/10.1002/jgre.20109/abstract). Journal of Geophysical Research - Planets, 118, 1512-1528, doi:10.1002/jgre20109. 
+- Laneuville M., M. Wieczorek, D. Breuer and N. Tosi (2013). [Asymmetric thermal evolution of the Moon](http://onlinelibrary.wiley.com/doi/10.1002/jgre.20103/abstract). Journal of Geophysical Research - Planets, 118, 1435-1452, doi:10.1002/jgre.20103.
+- Hüttig C., N. Tosi and W.B. Moore (2013). [An improved formulation of the incompressible Navier-Stokes equations with variable viscosity](http://www.sciencedirect.com/science/article/pii/S0031920113000459). Physics of the Earth and Planetary Interiors, 220, 11-18, doi:10.1016/j.pepi.2013.04.002. 
+- Tosi N., D. Yuen, N. de Koker and R. Wentzcovitch (2013). [Mantle dynamics with pressure- and temperature-dependent thermal expansivity and conductivity](http://dx.doi.org/10.1016/j.pepi.2013.02.004). Physics of the Earth and Planetary Interiors, 217, 48-58, doi:10.1016/j.pepi.2013.02.004. 
 
-
-
-
+2013
+======
+- Plesa A.-C., N. Tosi and C. Huettig (2012). [Thermochemical convection in planetary mantles: advection methods and magma ocean overturn simulations](http://www.igi-global.com/chapter/thermo-chemical-convection-planetary-mantles/70615). In Integrated Information and Computing Systems for Natural, Spatial, and Social Sciences, C.-P. Rueckemann (ed.), IGI Global, 302-323, doi:10.4018/978-1-4666-2190-9.ch015. 
+- Noack L. and N. Tosi (2012). [High-performance modelling in geodynamics](http://www.igi-global.com/chapter/high-performance-modelling-geodynamics/70616). In Integrated Information and Computing Systems for Natural, Spatial, and Social Sciences, C.-P. Rueckemann (ed.), IGI Global, 324-352, doi:10.4018/978-1-4666-2190-9.ch016. 
+- Wagner F.W., N. Tosi, F. Sohl, H. Rauer, T. Spohn (2012). [Rocky super-Earth Interiors: Structure and internal dynamics of CoRoT-7b and Kepler-10b](http://dx.doi.org/10.1051/0004-6361/201118441). Astronomy & Astrophysics, 541, A103, doi:10.1051/0004-6361/201118441. 
+- Samuel H. and N. Tosi (2012). [The influence of post-perovskite strength on the Earth’s mantle thermal and chemical evolution](http://dx.doi.org/10.1016/j.epsl.2012.01.024). Earth and Planetary Science Letters, 323-324, 50-59, doi:10.1016/j.epsl.2012.01.024. 
 
 
 
