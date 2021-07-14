@@ -48,7 +48,16 @@ Schulz F.\*, N. Tosi, A.-C. Plesa, D. Breuer (2020). [Stagnant-lid convection wi
 
 2018
 ======
+- Plesa A.‐C.,  S. Padovan,  N. Tosi,  D. Breuer,  M. Grott , M.A. Wieczorek,  T. Spohn,  S.E. Smrekar, W. B. Banerdt (2018). [The thermal state and interior structure of Mars](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018GL080728). Geophysical Research Letters, 45(22), 12198-12209, doi:10.1029/2018GL080728. [*Journal's cover*](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1002/grl.56389)
+- Padovan S., T. Spohn, P. Baumeister\*, N. Tosi, D. Breuer, Sz. Csizmadia, H. Hellard, F. Sohl (2018). [Matrix-propagator approach to compute fluid Love numbers and applicability to extrasolar planets](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/201834181). Astronomy & Astrophysics,  620, A178, doi:10.1051/0004-6361/201834181, [arXiv:1810.10064](https://arxiv.org/abs/1810.10064). 
+- Lammer H., A.L. Zerkle, S. Gebauer, N. Tosi, L. Noack, M. Scherf, E. Pilat-Lohinger, M. Güdel, J.L. Grenfell, M. Godolt, A. Nikolaou\* (2018). [Origin and evolution of the atmospheres of early Venus, Earth and Mars](https://link.springer.com/article/10.1007/s00159-018-0108-y). The Astronomy and Astrophysics Review. 26(2), doi:10.1007/s00159-018-0108-y.
+- Plesa A.-C., M. Knapmeyer, M. P. Golombek,  D. Breuer, M. Grott, T. Kawamura, P. Longonné, N. Tosi, R. C. Weber (2018). [Present-day Mars' seismicity predicted from 3-D thermal evolution models of interior dynamics](http://onlinelibrary.wiley.com/doi/10.1002/2017GL076124/full). Geophysical Research Letters, 45(6), 2580-2589, doi:10.1002/2017GL076124.
+- Odert P., H. Lammer, N. V. Erkaev, A. Nikolaou\*, H.I.M. Lichtenegger, C.P. Johnstone, K.G. Kislyakova, M. Leitzinger, N. Tosi (2018). [Escape and fractionation of volatiles and noble gases from Mars-sized planetary embryos and growing protoplanets](http://www.sciencedirect.com/science/article/pii/S0019103517301677). Icarus, 307, 327-346, doi:10.1016/j.icarus.2017.10.031.
+- Breuer D. and N. Tosi (2018). Interiors and atmospheres. In [Planetary Geology](http://www.springer.com/gp/book/9783319651774#aboutBook), A.-P. Rossi and S. van Gasselt (eds.), Springer series in Astronomy and Planetary Sciences, Ch. 10, 221-242, doi:10.1007/978-3-319-65179-8.
 
+
+2017
+======
 
 
 
