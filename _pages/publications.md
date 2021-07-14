@@ -29,7 +29,7 @@ author_profile: true
 ======
 - Foley B. J., C. Houser, L. Noack, and N. Tosi (2020). [The heat budget of rocky planets](https://iopscience.iop.org/book/978-0-7503-2140-2/chapter/bk978-0-7503-2140-2ch4). In [Planetary Diversity: Rocky Planet Processes and Their Observational Signatures](https://iopscience.iop.org/book/978-0-7503-2140-2), E. J. Tasker, Y. Fujii, M. Laneuville, C. Unterborn, S. J. Desch, H. E. Hartnett (eds.), IOP Publishing, doi:10.1088/2514-3433/abb4d9ch4 
 - Patočka V.\*, E. Calzavarini and N. Tosi (2020). [Settling of inertial particles in turbulent Rayleigh-Bénard convection](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.5.114304). Physical Review Fluids, 5, 114304, doi:10.1103/PhysRevFluids.5.114304. *Chosen for Editors' highlights*
-- Maurice M.\*, N. Tosi, S. Schwinger, D. Breuer and T. Kleine (2020). [A long-lived magma ocean on a young Moon](https://advances.sciencemag.org/content/6/28/eaba8949). Science Advances, 6(28), doi:10.1126/sciadv.aba8949. Press coverage: [DLR](https://www.dlr.de/content/en/articles/news/2020/03/20200710_a-slightly-younger-moon.html), [Sky & Telescope](https://skyandtelescope.org/astronomy-news/long-lived-lunar-magma-ocean-points-to-a-younger-moon/), [space.com](https://www.space.com/earths-moon-magma-ocean-200-million-years.html)
+- Maurice M.\*, N. Tosi, S. Schwinger, D. Breuer and T. Kleine (2020). [A long-lived magma ocean on a young Moon](https://advances.sciencemag.org/content/6/28/eaba8949). Science Advances, 6(28), doi:10.1126/sciadv.aba8949. *Press coverage*: [DLR](https://www.dlr.de/content/en/articles/news/2020/03/20200710_a-slightly-younger-moon.html), [Sky & Telescope](https://skyandtelescope.org/astronomy-news/long-lived-lunar-magma-ocean-points-to-a-younger-moon/), [space.com](https://www.space.com/earths-moon-magma-ocean-200-million-years.html)
 - Agarwal S.\*, N. Tosi, D. Breuer, S. Padovan, P. Kessel and G. Montavon (2020). [A machine-learning-based surrogate model of Mars’ thermal evolution](https://academic.oup.com/gji/article/222/3/1656/5836720). Geophysical Journal International, 222, 3, 1656-1670, doi:10.1093/gji/ggaa234.  
 - Patočka V.\*, O. Šramek  and N. Tosi (2020). [Minimum heat flow from the core and thermal evolution of the Earth](https://www.sciencedirect.com/science/article/abs/pii/S0031920119302808). Physics of the Earth and Planetary Interiors, 305, 106457, doi:10.1016/j.pepi.2020.106457. 
 - Stüeken E.E., S.M. Som, M. Claire, S. Rugheimer, M. Scherf, L. Sproß, N. Tosi, Y. Ueno and H.Lammer (2020). [Mission to planet Earth: The first two billion years](https://link.springer.com/article/10.1007%2Fs11214-020-00652-3). Space Science Review, 216:31, doi:10.1007/s11214-020-00652-3. 
@@ -39,3 +39,33 @@ Schulz F.\*, N. Tosi, A.-C. Plesa, D. Breuer (2020). [Stagnant-lid convection wi
 
 2019
 ======
+- Höning D.\*, N. Tosi, T. Spohn  (2019). [Carbon cycling and interior evolution of water-covered plate tectonics and stagnant lid planets](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/201935091). Astronomy & Astrophysics, 627, A48, doi:10.1051/0004-6361/201935091. [arXiv:1905.12392](https://arxiv.org/abs/1905.12392). 
+- Nikolaou A.\*, N. Katyal, N. Tosi, M. Godolt, J. L. Grenfell, H. Rauer (2019). [What factors affect the duration and outgassing of the terrestrial magma ocean?](https://iopscience.iop.org/article/10.3847/1538-4357/ab08ed) The Astrophysical Journal, 875, 11, doi:10.3847/15384357/ab08ed. [arXiv:1903.07436](https://arxiv.org/abs/1903.07436).
+- Katyal N., A. Nikolaou\*, M. Godolt, J. L. Grenfell, N. Tosi, F. Schreier, H. Rauer (2019). [Evolution and spectral response of a steam atmosphere for early Earth with a coupled climate-interior model](https://iopscience.iop.org/article/10.3847/1538-4357/ab0d85/meta). The Astrophysical Journal, 875, 31, doi:10.3847/1538-4357/ab0d85. [arXiv:1903.04623](https://arxiv.org/abs/1903.04623).
+- Godolt M., N. Tosi, B. Stracke, J. L. Grenfell, T. Ruedas, T. Spohn, H. Rauer (2019). [The habitability of stagnant-lid Earths around dwarf stars](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/201834658). Astronomy & Astrophysics, 625, A12, doi:10.1051/00046361/201834658, [arXiv:1903.07298](https://arxiv.org/abs/1903.07298).
+- Yu S.\*, N. Tosi, S. Schwinger, M. Maurice\*, D. Breuer, L. Xiao (2019). [Overturn of ilmenite-bearing cumulates in a rheologically weak lunar mantle](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2018JE005739). Journal of Geophysical Research - Planets, 124(2), 418-436, doi:10.1029/2018JE005739.
+- Höning D.\*, N. Tosi, H. Hansen-Goos, T. Spohn (2019). [Bifurcation in the growth of continental crust](https://www.sciencedirect.com/science/article/pii/S0031920118301924?via%3Dihub). Physics of the Earth and Planetary Interiors, 287, 37-50, doi:10.1016/j.pepi.2019.01.001, [arXiv:1901.02301](https://arxiv.org/abs/1901.02301).
+
+2018
+======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
