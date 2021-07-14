@@ -21,7 +21,7 @@ Web: [https://nicola-tosi.github.io](https://nicola-tosi.github.io)
 
 Positions
 ======
-**2019 — &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**  Research Scientist at DLR Berlin \
+**2019 — &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**  Research Scientist at DLR Berlin \
 **2014 — 2019**  Helmholtz Young Investigator Group Leader jointly at TU Berlin and DLR Berlin \
 **2011 — 2014**  Research associate at TU Berlin \
 **2010 — 2011**  PostDoc at DLR Berlin \
