@@ -9,11 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Contact
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+German Aerospace Center (DLR) \
+Institute for Planetary Research \
+Department of Planetary Physics  \    
+Rutherford Strasse 2, 12489 Berlin, Germany \
+Phone: +49 (0) 30 67055 365 \
+Email: nicola.tosi@dlr.de \
+Web: https://nicola-tosi.github.io \
+
+Positions
+======
+2019 —       Research Scientist at DLR Berlin \
+2014 — 2019  Helmholtz Young Investigator Group Leader jointly at TU Berlin and DLR Berlin \
+2011 — 2014  Research associate at TU Berlin \
+2010 — 2011  PostDoc at DLR Berlin \
+2008 — 2010  Marie Curie PostDoc at Charles University in Prague \
 
 Work experience
 ======
