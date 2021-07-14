@@ -58,6 +58,9 @@ Schulz F.\*, N. Tosi, A.-C. Plesa, D. Breuer (2020). [Stagnant-lid convection wi
 
 2017
 ======
+- Padovan S.\*, N. Tosi, A.-C. Plesa, T. Ruedas (2017). [Impact-induced changes in the source depth and volume of magmatism on Mercury and their observational signature](https://www.nature.com/articles/s41467-017-01692-0). Nature Communications, 8, 1945, doi:10.1038/s41467-017-01692-0.
+- Tosi N.,  M. Godolt, B. Stracke, T. Ruedas, J. L. Grenfell, D. Höning\*, A. Nikolaou\*, A.-C. Plesa, D. Breuer, and T. Spohn (2017). [The habitability of a stagnant-lid Earth](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/201730728). Astronomy & Astrophysics, 605, A71, doi:10.1051/0004-6361/201730728, arXiv:1707.06051.
+- Maurice M.\*, N. Tosi, H. Samuel, A.-C. Plesa, C. Hüttig, D. Breuer (2017). [Onset of solid-state convection and mixing during magma ocean solidification](http://onlinelibrary.wiley.com/doi/10.1002/2016JE005250/full). Journal of Geophysical Research - Planets, 122(3), 577-598, doi:10.1002/2016JE005250. [Editor's highlight](http://agupubs.onlinelibrary.wiley.com/hub/article/10.1002/2016JE005250/editor-highlight/). [Journal's cover](http://onlinelibrary.wiley.com/doi/10.1002/jgre.20577/epdf).
 
 
 
