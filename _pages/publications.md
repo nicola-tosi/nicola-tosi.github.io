@@ -62,6 +62,22 @@ Schulz F.\*, N. Tosi, A.-C. Plesa, D. Breuer (2020). [Stagnant-lid convection wi
 - Tosi N.,  M. Godolt, B. Stracke, T. Ruedas, J. L. Grenfell, D. Höning\*, A. Nikolaou\*, A.-C. Plesa, D. Breuer, and T. Spohn (2017). [The habitability of a stagnant-lid Earth](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/201730728). Astronomy & Astrophysics, 605, A71, doi:10.1051/0004-6361/201730728, arXiv:1707.06051.
 - Maurice M.\*, N. Tosi, H. Samuel, A.-C. Plesa, C. Hüttig, D. Breuer (2017). [Onset of solid-state convection and mixing during magma ocean solidification](http://onlinelibrary.wiley.com/doi/10.1002/2016JE005250/full). Journal of Geophysical Research - Planets, 122(3), 577-598, doi:10.1002/2016JE005250. [Editor's highlight](http://agupubs.onlinelibrary.wiley.com/hub/article/10.1002/2016JE005250/editor-highlight/). [Journal's cover](http://onlinelibrary.wiley.com/doi/10.1002/jgre.20577/epdf).
 
+2016
+======
+- Plesa A.-C., M. Grott, N. Tosi, D. Breuer, T. Spohn, M. Wieczorek (2016). [How large are present‐day heat flux variations across the surface of Mars?](http://onlinelibrary.wiley.com/doi/10.1002/2016JE005126/full) Journal of Geophysical Research - Planets, 121(12), 2386-2403, doi:10.1002/2016JE005126. [*Commentary by W. Kiefer*](http://onlinelibrary.wiley.com/doi/10.1002/2016JE005202/full). [*Research spotlight in EOS*](https://eos.org/research-spotlights/martian-mantle-models-pave-the-way-for-nasas-insight-lander).
+- Breuer D., A.-C. Plesa, N. Tosi and M. Grott (2016). [Water in the Martian interior—The geodynamical perspective](http://onlinelibrary.wiley.com/doi/10.1111/maps.12727/full). Meteoritics and Planetary Science, 51(11), 1959-1992, doi:10.1111/maps.12727.
+- Dehant V. et al. (incl. N. Tosi) (2016). [PLANET TOPERS: Planets, Tracing the Transfer, Origin, Preservation, and Evolution of their ReservoirS](http://link.springer.com/article/10.1007%2Fs11084-016-9488-z). Origins of life and evolution of biospheres, doi:10.1007/s11084-016-9488-z.
+
+2015
+======
+- Huang H., N. Tosi, S.-J. Chang, S. Xia and X. Qiu (2015). [Receiver function imaging of the mantle transition zone beneath the South China Block](http://onlinelibrary.wiley.com/doi/10.1002/2015GC005978/full). Geochemistry, Geophysics, Geosystems, 16(10), 3666-3678, doi:10.1002/2015GC005978. 
+- Tosi N., O. Čadek, M. Běhounková, M. Káňová, A.-C. Plesa, M. Grott, D. Breuer, S. Padovan and M. Wieczorek (2015). [Mercury's low-degree geoid and topography controlled by insolation-driven elastic deformation](http://onlinelibrary.wiley.com/doi/10.1002/2015GL065314/full). Geophysical Research Letters, 42(18), 7327-7335, doi:10.1002/2015GL065314. 
+- Tosi N., P. Maierová and D. Yuen (2015). [Influence of variable thermal expansivity and conductivity on deep subduction](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118888855.html). Subduction Dynamics: from Mantle Flow to Mega Disasters, AGU Geophysical Monograph 211, Ch. 6, G. Morra, D. Yuen, S. King and S. Stein (eds.). 
+- Li J., N. Tosi, P. Maierová and D. Yuen (2015). [Evidence from caustics waveform modelling for long slab thickening above the 660-km discontinuity under northeast Asia: dynamical implications](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118888855.html). Subduction Dynamics: from Mantle Flow to Mega Disasters, AGU Geophysical Monograph 211, Ch. 1, G. Morra, D. Yuen, S. King and S. Stein (eds.). 
+- Tosi N., C. Stein, L. Noack, C. Hüttig, P. Maierová, H. Samuel, R. Davies, C. Wilson, S. Kramer, C. Thieulot, A. Glerum, M. Fraters, W. Spakman, A. Rozel and P. Tackley (2015). [A community benchmark for viscoplastic thermal convection in a 2-D square box](http://onlinelibrary.wiley.com/doi/10.1002/2015GC005807/full). Geochemistry, Geophysics, Geosystems, 16(7), 2175-2196, doi:10.1002/2015GC005807. 
+- Plesa A.-C., N. Tosi, M. Grott and D. Breuer (2015). [Thermal evolution and Urey ratio of Mars](http://onlinelibrary.wiley.com/doi/10.1002/2014JE004748/abstract). Journal of Geophysical Research - Planets, 120, 995-1010, doi:10.1002/2014JE004748.
+Padovan S., M. Wieczorek, J.-L. Margot, N. Tosi and S. Solomon (2015). [Thickness of the crust of Mercury from geoid-to-topography ratios](http://onlinelibrary.wiley.com/doi/10.1002/2014GL062487/abstract). Geophysical Research Letters, 42, 1029-1038, doi:10.1002/2014GL062487.
+
 
 
 
