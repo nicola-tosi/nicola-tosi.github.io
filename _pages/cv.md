@@ -13,7 +13,7 @@ Contact
 ======
 German Aerospace Center (DLR) \
 Institute for Planetary Research \
-Department of Planetary Physics \    
+Department of Planetary Physics \
 Rutherford Strasse 2, 12489 Berlin, Germany \
 Phone: +49 (0) 30 67055 365 \
 Email: <nicola.tosi@dlr.de> \
