@@ -11,13 +11,13 @@ redirect_from:
 
 Contact
 ======
-German Aerospace Center (DLR) \
-Institute for Planetary Research \
-Department of Planetary Physics \
+[German Aerospace Center (DLR)](https://www.dlr.de/EN/Home/home_node.html) \
+[Institute for Planetary Research](https://www.dlr.de/pf/en/desktopdefault.aspx/tabid-120/) \
+[Department of Planetary Physics](https://www.dlr.de/pf/en/desktopdefault.aspx/tabid-177/326_read-519/) \
 Rutherford Strasse 2, 12489 Berlin, Germany \
-Phone: +49 (0) 30 67055 365 \
-Email: <nicola.tosi@dlr.de> \
-Web: [https://nicola-tosi.github.io](https://nicola-tosi.github.io)
++49 (0) 30 67055 365 \
+<nicola.tosi@dlr.de> \
+[https://nicola-tosi.github.io](https://nicola-tosi.github.io)
 
 Positions
 ======
