@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Nicola Tosi"
   avatar           : "nicola_tosi.jpg"
-  bio              : "Research Scientist, German Aerospace Center (DLR), Institute of Planetary Research, Berlin, Germany"
-  location         : 
-  employer         :
+  bio              : "Research Scientist"
+  employer         : "German Aerospace Center (DLR), Institute of Planetary Research"
+  location         : "Berlin, Germany" 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=m30050AAAAAJ"
   email            : "nicola.tosi@dlr.de"
