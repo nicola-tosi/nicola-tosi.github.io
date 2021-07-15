@@ -6,15 +6,15 @@ author_profile: true
 ---
 
 
-<img src="../images/philipp.jpg" alt="" width="160"/>  
+<img align="right" src="../images/philipp.jpg" alt="" width="160"/>  
 [Philipp Baumeister](https://philippbaumeister.github.io/) - PhD student \
 *Interior structure and evolution of sub-Neptunian exoplanets*
 
-<img src="../images/sid.jpg" alt="" width="160"/>  
+<img align="right" src="../images/sid.jpg" alt="" width="160"/>  
 [Siddhant Agarwal](https://www.researchgate.net/profile/Siddhant-Agarwal-3) - PhD student \
 *Interior evolution of terrestrial planets and machine learning*
 
-<img src="../images/falko.jpg" alt="" width="160"/>  
+<img align="right" src="../images/falko.jpg" alt="" width="160"/>  
 Falko Schulz - PhD student \
 *Non-linear rheologies and mantle dynamics*
 
