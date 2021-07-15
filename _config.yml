@@ -82,11 +82,12 @@ analytics:
 author:
   name             : "Nicola Tosi"
   avatar           : "nicola_tosi.jpg"
-  bio              : "Research Scientist"
-  employer         : "German Aerospace Center (DLR), Institute of Planetary Research"
-  location         : "Berlin, Germany" 
+  bio              : "Research Scientist, German Aerospace Center (DLR), Institute of Planetary Research, Berlin, Germany"
+  location         : 
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=m30050AAAAAJ"
+  publons          : "https://publons.com/researcher/4284717/nicola-tosi/"
   email            : "nicola.tosi@dlr.de"
   researchgate     : "https://www.researchgate.net/profile/Nicola_Tosi"
   uri              :
@@ -105,7 +106,6 @@ author:
   linkedin         :
   orcid            : "http://orcid.org/0000-0002-4912-2848"
   pinterest        :
-  publons          : "https://publons.com/researcher/4284717/nicola-tosi/"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
