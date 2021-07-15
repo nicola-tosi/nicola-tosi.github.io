@@ -8,18 +8,17 @@ author_profile: true
 
 <img align="left" src="../images/philipp.jpg" alt="" width="160"/>  
 [Philipp Baumeister](https://philippbaumeister.github.io/) - PhD student \
-*Interior structure and evolution of sub-Neptunian exoplanets*
+*Interior structure and evolution of sub-Neptunian exoplanets* \
 
 <img align="left" src="../images/sid.jpg" alt="" width="160"/>  
 [Siddhant Agarwal](https://www.researchgate.net/profile/Siddhant-Agarwal-3) - PhD student \
-*Interior evolution of terrestrial planets and machine learning*
+*Interior evolution of terrestrial planets and machine learning* \
 
 <img align="left" src="../images/falko.jpg" alt="" width="160"/>  
 Falko Schulz - PhD student \
-*Non-linear rheologies and mantle dynamics*
+*Non-linear rheologies and mantle dynamics* \
 
 ## Former group members:
-
 [Vojtech Patocka](http://geo.mff.cuni.cz/~patocka/)  (2018-2020) - PostDoc \
 Maxime Maurice (2015-2020) - PhD student \
 [Athanasia Nikolaou](https://www.researchgate.net/profile/Athanasia_Nikolaou) (2015-2019) - PhD student \
