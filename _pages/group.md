@@ -22,7 +22,7 @@ Falko Schulz - *PhD student* \
 <br clear="left"/>
 
 ## Former group members:
-[Vojtech Patocka](http://geo.mff.cuni.cz/~patocka/)  (2018-2020) - *PostDoc* \
+[Vojtěch Patočka](http://geo.mff.cuni.cz/~patocka/)  (2018-2020) - *PostDoc* \
 Maxime Maurice (2015-2020) - *Master and PhD student* \
 [Athanasia Nikolaou](https://www.researchgate.net/profile/Athanasia_Nikolaou) (2015-2019) - *PhD student* \
 Oliver Henke-Seemann (2019) - *Bachelor student* \
