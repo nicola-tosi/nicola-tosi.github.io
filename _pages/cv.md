@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Full CV]{http://nicola-tosi.github.io/files/NicolaTosi_CV.pdf}
+
 Contact
 ======
 [German Aerospace Center (DLR)](https://www.dlr.de/EN/Home/home_node.html) \
