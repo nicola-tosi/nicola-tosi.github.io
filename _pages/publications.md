@@ -17,6 +17,10 @@ author_profile: true
 
 <u>Underlined names</u> indicate supervised PhDs and PostDocs
 
+2022
+======
+- <u>Patočka V.</u>, **N. Tosi** and E. Calzavarini (2022). [Residence time of inertial particles in 3D thermal convection: Implications for magma reservoirs](https://www.sciencedirect.com/science/article/abs/pii/S0012821X22002588?via%3Dihub). Earth and Planetary Science Letters, 591, 117622, doi:10.1016/j.epsl.2022.117622, [arXiv:2202.12633.](https://arxiv.org/abs/2202.12633)
+
 2021
 ======
 - <u>Agarwal S.</u>, **N. Tosi**, P. Kessel, D. Breuer and G. Montavon (2021). [Deep learning for surrogate modeling of two-dimensional mantle convection](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.6.113801). Physical Review Fluids, 6, 113801, doi:10.1103/PhysRevFluids.00.003800, [arXiv:2108.10105.](https://arxiv.org/abs/2108.10105) 
