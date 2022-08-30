@@ -11,17 +11,9 @@ author_profile: true
 *Interior structure and evolution of sub-Neptunian exoplanets* 
 <br clear="left"/>
 
-<img align="left" src="../images/sid.jpg" alt="" width="160"/>  
-[Siddhant Agarwal](https://www.researchgate.net/profile/Siddhant-Agarwal-3) - *PhD student* \
-*Interior evolution of terrestrial planets and machine learning* 
-<br clear="left"/>
-
-<img align="left" src="../images/falko.jpg" alt="" width="160"/>  
-Falko Schulz - *PhD student* \
-*Non-linear rheologies and mantle dynamics* 
-<br clear="left"/>
-
 ## Former group members:
+[Siddhant Agarwal](https://www.researchgate.net/profile/Siddhant-Agarwal-3) (2018-2022) - *PhD student* \
+Falko Schulz (2017-2021) - *PhD student* \
 [Vojtěch Patočka](http://geo.mff.cuni.cz/~patocka/)  (2018-2020) - *PostDoc* \
 Maxime Maurice (2015-2020) - *Master and PhD student* \
 [Athanasia Nikolaou](https://www.researchgate.net/profile/Athanasia_Nikolaou) (2015-2019) - *PhD student* \
