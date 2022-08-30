@@ -20,6 +20,7 @@ author_profile: true
 2022
 ======
 - <u>Patočka V.</u>, **N. Tosi** and E. Calzavarini (2022). [Residence time of inertial particles in 3D thermal convection: Implications for magma reservoirs](https://www.sciencedirect.com/science/article/abs/pii/S0012821X22002588?via%3Dihub). Earth and Planetary Science Letters, 591, 117622, doi:10.1016/j.epsl.2022.117622, [arXiv:2202.12633.](https://arxiv.org/abs/2202.12633)
+- Kawamura T. et al. (incl. **N. Tosi**) (2022). [An autonomous lunar geophysical experiment package (ALGEP) for future space missions](https://link.springer.com/article/10.1007/s10686-022-09857-6). Experimental Astronomy, doi:10.1007/s10686-022-09857-6
 
 2021
 ======
