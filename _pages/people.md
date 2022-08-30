@@ -15,7 +15,7 @@ author_profile: true
 [Siddhant Agarwal](https://www.researchgate.net/profile/Siddhant-Agarwal-3) (2018-2022) - *PhD student* \
 Falko Schulz (2017-2021) - *PhD student* \
 [Vojtěch Patočka](http://geo.mff.cuni.cz/~patocka/)  (2018-2020) - *PostDoc* \
-Maxime Maurice (2015-2020) - *Master and PhD student* \
+[Maxime Maurice](https://www.researchgate.net/profile/Maxime-Maurice) (2015-2020) - *Master and PhD student* \
 [Athanasia Nikolaou](https://www.researchgate.net/profile/Athanasia_Nikolaou) (2015-2019) - *PhD student* \
 Oliver Henke-Seemann (2019) - *Bachelor student* \
 Alexandre Gallot (2019) - *Master student* \
