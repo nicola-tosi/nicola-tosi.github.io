@@ -84,7 +84,7 @@ author_profile: true
 - Li J., **N. Tosi**, P. Maierová and D. Yuen (2015). [Evidence from caustics waveform modelling for long slab thickening above the 660-km discontinuity under northeast Asia: dynamical implications](http://eu.wiley.com/WileyCDA/WileyTitle/productCd-1118888855.html). Subduction Dynamics: from Mantle Flow to Mega Disasters, AGU Geophysical Monograph 211, Ch. 1, G. Morra, D. Yuen, S. King and S. Stein (eds.). 
 - **Tosi N.**, C. Stein, L. Noack, C. Hüttig, P. Maierová, H. Samuel, R. Davies, C. Wilson, S. Kramer, C. Thieulot, A. Glerum, M. Fraters, W. Spakman, A. Rozel and P. Tackley (2015). [A community benchmark for viscoplastic thermal convection in a 2-D square box](http://onlinelibrary.wiley.com/doi/10.1002/2015GC005807/full). Geochemistry, Geophysics, Geosystems, 16(7), 2175-2196, doi:10.1002/2015GC005807. 
 - Plesa A.-C., **N. Tosi**, M. Grott and D. Breuer (2015). [Thermal evolution and Urey ratio of Mars](http://onlinelibrary.wiley.com/doi/10.1002/2014JE004748/abstract). Journal of Geophysical Research - Planets, 120, 995-1010, doi:10.1002/2014JE004748.
-Padovan S., M. Wieczorek, J.-L. Margot, **N. Tosi** and S. Solomon (2015). [Thickness of the crust of Mercury from geoid-to-topography ratios](http://onlinelibrary.wiley.com/doi/10.1002/2014GL062487/abstract). Geophysical Research Letters, 42, 1029-1038, doi:10.1002/2014GL062487.
+- Padovan S., M. Wieczorek, J.-L. Margot, **N. Tosi** and S. Solomon (2015). [Thickness of the crust of Mercury from geoid-to-topography ratios](http://onlinelibrary.wiley.com/doi/10.1002/2014GL062487/abstract). Geophysical Research Letters, 42, 1029-1038, doi:10.1002/2014GL062487.
 
 2014
 ======
