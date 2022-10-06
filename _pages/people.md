@@ -11,8 +11,10 @@ author_profile: true
 *Interior structure and evolution of sub-Neptunian exoplanets* 
 <br clear="left"/>
 
+<img align="left" src="../images/marina.jpg" alt="" width="160"/>  
 **Marina Cano Amoros** - *PhD student* (co-advising with [Nadine Nettelmann](https://www.researchgate.net/profile/Nadine-Nettelmann)) \
 *Interior structure and evolution of Uranus and Neptune* 
+<br clear="left"/>
 
 **Elias Kristen** - *Bachelor student* \
 *Influence of heat piping on the thermal evolution of Mercury*
