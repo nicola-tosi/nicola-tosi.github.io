@@ -11,7 +11,7 @@ author_profile: true
 *Interior structure and evolution of sub-Neptunian exoplanets* 
 <br clear="left"/>
 
-**Marina Cano Amoros** - *PhD student* (co-advising with [Nadine Nettelman](https://www.researchgate.net/profile/Nadine-Nettelmann)) \
+**Marina Cano Amoros** - *PhD student* (co-advising with [Nadine Nettelmann](https://www.researchgate.net/profile/Nadine-Nettelmann)) \
 *Interior structure and evolution of Uranus and Neptune* 
 
 **Elias Kristen** - *Bachelor student* \
