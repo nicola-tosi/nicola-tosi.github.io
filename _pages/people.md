@@ -10,6 +10,10 @@ author_profile: true
 [Philipp Baumeister](https://philippbaumeister.github.io/) - *PhD student* \
 *Interior structure and evolution of sub-Neptunian exoplanets* 
 <br clear="left"/>
+Marina Cano Amoros - *PhD student* (co-advising with [Nadine Nettelman](https://www.researchgate.net/profile/Nadine-Nettelmann)) \
+*Interior structure and evolution of Uranus and Neptune* \ 
+Elias Kristen - *Bachelor student* \
+*Influence of heat piping on the thermal evolution of Mercury*
 
 ## Former group members:
 [Siddhant Agarwal](https://www.researchgate.net/profile/Siddhant-Agarwal-3) (2018-2022) - *PhD student* \
