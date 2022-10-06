@@ -29,4 +29,5 @@ Alexandre Gallot (2019) - *Master student* \
 [Dennis Höning](http://www.dhoening.de/) (2016-2018) - *PostDoc* \
 [Sebastiano Padovan](https://www.researchgate.net/profile/Sebastiano_Padovan) (2015-2017) - *PostDoc* \
 Sebastian Prinz (2014) - *Master student* \
-Magdalena Haselsteiner (2014) - *Bachelor student*
+Magdalena Haselsteiner (2014) - *Bachelor student* \
+Annika Stuke (2013) - *Bachelor student*
