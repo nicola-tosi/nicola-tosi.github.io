@@ -12,7 +12,9 @@ I am a planetary physicist at the [Institute of Planetary Research](https://www.
 
 
 <br/><br/>
-<span style="color:red"> **NEWS** </span> I have an opening for a fully funded **3-years postdoc position** in a new
+<span style="color:red"> **NEWS!** </span> 
+<mark style="background-color: lightsteelblue">
+I have an opening for a fully funded **3-years postdoc position** in a new
 project named PLAGeS (Physics-based Learning Algorithms for Geophysical fluid Simulations). We aim at extending a
 purely data-driven approach for surrogate modelling of planetary interior dynamics to the rapidly growing field of
 *physics-based machine learning*. The goal of the project is the development of a fast, machine-learning-based solver
@@ -21,4 +23,4 @@ particular focus on Mercury, Mars, and rocky exoplanets. Applications must be su
 at [this address](https://www.dlr.de/dlr/jobs/en/desktopdefault.aspx/tabid-10596/1003_read-49930/) and include a
 motivation letter summarizing research interests, academic transcripts from relevant degrees, CV, and names and
 contact information of at least two references. For more information, you can contact me via
-[email](mailto:nicola.tosi@dlr.de).
+[email](mailto:nicola.tosi@dlr.de).</mark>
