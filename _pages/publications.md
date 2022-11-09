@@ -22,6 +22,7 @@ author_profile: true
 - <u>Patočka V.</u>, **N. Tosi** and E. Calzavarini (2022). [Residence time of inertial particles in 3D thermal convection: Implications for magma reservoirs](https://www.sciencedirect.com/science/article/abs/pii/S0012821X22002588?via%3Dihub). Earth and Planetary Science Letters, 591, 117622, doi:10.1016/j.epsl.2022.117622, [arXiv:2202.12633.](https://arxiv.org/abs/2202.12633)
 - Kawamura T. et al. (incl. **N. Tosi**) (2022). [An autonomous lunar geophysical experiment package (ALGEP) for future space missions](https://link.springer.com/article/10.1007/s10686-022-09857-6). Experimental Astronomy, doi:10.1007/s10686-022-09857-6
 - Dehant V. et al. (incl. **N. Tosi**) (2022). From Science Questions to Solar System Exploration. [In: Planetary Exploration Horizon 2061](https://www.elsevier.com/books/planetary-exploration-horizon-2061/blanc/978-0-323-90226-7), M. Blanc (ed.), Ch. 3, ISBN:9780323902267, Elsevier.
+- MacKenzie J., J.L. Grenfell, <u>P. Baumeister</u>, **N. Tosi**, J. Cabrera and H. Rauer (2022). Effect of improved atmospheric opacities in modeling sub-Neptunes. A case study for GJ 1214 b. Astronomy & Astrophysics. *In press*.
 
 2021
 ======
