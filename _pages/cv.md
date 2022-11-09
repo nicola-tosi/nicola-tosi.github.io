@@ -38,7 +38,7 @@ Funded Projects
 ======
 **2023 — 2025** PLAGeS (Physics-based Learning Algorithms for Geophysical fluid Simulations). *BMBF*.
 **2021 — 2023** Structural and thermal models of solid exoplanets. *DFG Research Unit* [Matter under planetary conditions](https://www.for2440.uni-rostock.de/home/). \
-**2018 — 2021** Unravelling the interior evolution of terrestrial planets with machine learning. *Helmholtz Graduate School in Data Science* [HEIBRIDS](https://www.heibrids.berlin/). \
+**2018 — 2022** Unravelling the interior evolution of terrestrial planets with machine learning. *Helmholtz Graduate School in Data Science* [HEIBRIDS](https://www.heibrids.berlin/). \
 **2018 — 2020** Interior-atmosphere feedbacks and the nature of detected sub-Neptunian planets. *DFG Priority Program* [Exploring the diversity of extrasolar planets](http://www-astro.physik.tu-berlin.de/exoplanet-diversity/). \
 **2017 — 2019** Crystallising the terrestrial magma ocean: Thermo- and Geodynamics. *DFG Priority Program* [Building a habitable Earth](http://www.habitableearth.uni-koeln.de/). \
 **2014 — 2019** Early dynamics of the terrestrial planets. *Helmholtz Young Investigator Group*. \
