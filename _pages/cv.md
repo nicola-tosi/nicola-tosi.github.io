@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download the full CV](http://nicola-tosi.github.io/files/NicolaTosi_CV.pdf)
+<!--[Download the full CV](http://nicola-tosi.github.io/files/NicolaTosi_CV.pdf)-->
 
 Contact
 ======
