@@ -16,9 +16,6 @@ author_profile: true
 *Interior structure and evolution of Uranus and Neptune* 
 <br clear="left"/>
 
-**Elias Kristen** - *Bachelor student* \
-*Influence of heat piping on the thermal evolution of Mercury*
-
 ## Former group members:
 [Siddhant Agarwal](https://www.researchgate.net/profile/Siddhant-Agarwal-3) (2018-2022) - *PhD student* \
 Falko Schulz (2017-2021) - *PhD student* \
