@@ -17,16 +17,16 @@ author_profile: true
 <br clear="left"/>
 
 ## Former group members:
-[Siddhant Agarwal](https://www.researchgate.net/profile/Siddhant-Agarwal-3) (2018-2022) - *PhD student* \
-Falko Schulz (2017-2021) - *PhD student* \
+[Siddhant Agarwal](https://www.researchgate.net/profile/Siddhant-Agarwal-3) (2018-2022) - *PhD* \
+Falko Schulz (2017-2021) - *PhD* \
 [Vojtěch Patočka](http://geo.mff.cuni.cz/~patocka/)  (2018-2020) - *PostDoc* \
-[Maxime Maurice](https://www.researchgate.net/profile/Maxime-Maurice) (2015-2020) - *Master and PhD student* \
-[Shuoran Yu](https://www.researchgate.net/profile/Shuoran-Yu) (2017-2020) - *PhD student* (co-advising with Long Xiao)\
-[Athanasia Nikolaou](https://www.researchgate.net/profile/Athanasia_Nikolaou) (2015-2019) - *PhD student* \
-Oliver Henke-Seemann (2019) - *Bachelor student* \
-Alexandre Gallot (2019) - *Master student* \
+[Maxime Maurice](https://www.researchgate.net/profile/Maxime-Maurice) (2015-2020) - *MSc and PhD* \
+[Shuoran Yu](https://www.researchgate.net/profile/Shuoran-Yu) (2017-2020) - *PhD* (co-advising with Long Xiao)\
+[Athanasia Nikolaou](https://www.researchgate.net/profile/Athanasia_Nikolaou) (2015-2019) - *PhD* \
+Oliver Henke-Seemann (2019) - *BSc* \
+Alexandre Gallot (2019) - *MSc* \
 [Dennis Höning](http://www.dhoening.de/) (2016-2018) - *PostDoc* \
 [Sebastiano Padovan](https://www.researchgate.net/profile/Sebastiano_Padovan) (2015-2017) - *PostDoc* \
-Sebastian Prinz (2014) - *Master student* \
-Magdalena Haselsteiner (2014) - *Bachelor student* \
-Annika Stuke (2013) - *Bachelor student*
+Sebastian Prinz (2014) - *MSc* \
+Magdalena Haselsteiner (2014) - *BSc* \
+Annika Stuke (2013) - *BSc*
