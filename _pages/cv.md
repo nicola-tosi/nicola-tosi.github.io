@@ -23,7 +23,7 @@ Rutherford Strasse 2, 12489 Berlin, Germany \
 
 Positions
 ======
-**2019 —** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Staff Scientist, DLR Berlin \
+**2019 —** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Research Scientist, DLR Berlin \
 **2014 — 2019**  Helmholtz Young Investigator Group Leader, TU Berlin and DLR Berlin \
 **2011 — 2014**  PostDoc, TU Berlin \
 **2010 — 2011**  PostDoc, DLR Berlin \
