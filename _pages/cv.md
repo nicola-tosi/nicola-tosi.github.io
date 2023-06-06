@@ -34,7 +34,7 @@ Education
 **2004 — 2008**  PhD Geophysics, GFZ Potsdam and Charles University Prague \
 **1997 — 2003**  MSc Physics, University of Milan
 
-Funded Projects
+Projects
 ======
 **2023 — 2025** PLAGeS: Physics-based Learning Algorithms for Geophysical fluid Simulations. *BMBF*. [Datenkompetenzen für den wissenschaftlichen Nachwuchs](https://www.bildung-forschung.digital/digitalezukunft/de/wissen/Datenkompetenzen/datenkompetenzen_wissenschaftlichen_nachwuchs/datenkompetenzen_wiss_nachwuchs_node.html). \
 **2021 — 2023** Structural and thermal models of solid exoplanets. *DFG Research Unit* [Matter under planetary conditions](https://www.for2440.uni-rostock.de/home/). \
