@@ -20,14 +20,14 @@ author_profile: true
 2023
 ======
 - Le Maistre S. et al. (25 authors incl. **N. Tosi**) (2023). [Spin state and deep interior structure of Mars from InSight radio tracking](https://www.nature.com/articles/s41586-023-06150-0). Nature, doi:10.1038/s41586-023-06150-0.
-- Cabrera et al. (incl. <u>P. Baumeister</u> and **N. Tosi**) (2023). [The planetary system around HD 190622 (TOI-1054). Measuring the gas content of low-mass planets orbiting F-stars](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202245774). Astronomy & Astrophysics, doi:10.1051/0004-6361/202245774. *In press*.
+- Cabrera et al. (110 authors incl. <u>P. Baumeister</u> and **N. Tosi**) (2023). [The planetary system around HD 190622 (TOI-1054). Measuring the gas content of low-mass planets orbiting F-stars](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202245774). Astronomy & Astrophysics, doi:10.1051/0004-6361/202245774. *In press*.
 - MacKenzie J., J.L. Grenfell, <u>P. Baumeister</u>, **N. Tosi**, J. Cabrera and H. Rauer (2023). [Effect of improved atmospheric opacities in modeling sub-Neptunes. A case study for GJ 1214 b](https://www.aanda.org/articles/aa/full_html/2023/03/aa41784-21/aa41784-21.html). Astronomy & Astrophysics, 671, A65, doi:10.1051/0004-6361/202141784
 
 2022
 ======
 - <u>Patočka V.</u>, **N. Tosi** and E. Calzavarini (2022). [Residence time of inertial particles in 3D thermal convection: Implications for magma reservoirs](https://www.sciencedirect.com/science/article/abs/pii/S0012821X22002588?via%3Dihub). Earth and Planetary Science Letters, 591, 117622, doi:10.1016/j.epsl.2022.117622, [arXiv:2202.12633.](https://arxiv.org/abs/2202.12633)
-- Kawamura T. et al. (incl. **N. Tosi**) (2022). [An autonomous lunar geophysical experiment package (ALGEP) for future space missions](https://link.springer.com/article/10.1007/s10686-022-09857-6). Experimental Astronomy, doi:10.1007/s10686-022-09857-6.
-- Dehant V. et al. (incl. **N. Tosi**) (2022). [From Science Questions to Solar System Exploration](https://www.sciencedirect.com/science/article/pii/B9780323902267000064?via%3Dihub). [In: Planetary Exploration Horizon 2061](https://www.elsevier.com/books/planetary-exploration-horizon-2061/blanc/978-0-323-90226-7), M. Blanc (ed.), Ch. 3, Elsevier, doi:10.1016/B978-0-323-90226-7.00006-4, [arXiv:2211.04474](https://arxiv.org/abs/2211.04474).
+- Kawamura T. et al. (39 authors incl. **N. Tosi**) (2022). [An autonomous lunar geophysical experiment package (ALGEP) for future space missions](https://link.springer.com/article/10.1007/s10686-022-09857-6). Experimental Astronomy, doi:10.1007/s10686-022-09857-6.
+- Dehant V. et al. (34 authors incl. **N. Tosi**) (2022). [From Science Questions to Solar System Exploration](https://www.sciencedirect.com/science/article/pii/B9780323902267000064?via%3Dihub). [In: Planetary Exploration Horizon 2061](https://www.elsevier.com/books/planetary-exploration-horizon-2061/blanc/978-0-323-90226-7), M. Blanc (ed.), Ch. 3, Elsevier, doi:10.1016/B978-0-323-90226-7.00006-4, [arXiv:2211.04474](https://arxiv.org/abs/2211.04474).
 
 2021
 ======
