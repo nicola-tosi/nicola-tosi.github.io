@@ -19,6 +19,7 @@ author_profile: true
 
 2023
 ======
+- Le Maistre S. et al. (25 authors incl. **N. Tosi**) (2023). [Spin state and deep interior structure of Mars from InSight radio tracking](https://www.nature.com/articles/s41586-023-06150-0). Nature, doi:10.1038/s41586-023-06150-0.
 - Cabrera et al. (incl. <u>P. Baumeister</u> and **N. Tosi**) (2023). [The planetary system around HD 190622 (TOI-1054). Measuring the gas content of low-mass planets orbiting F-stars](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202245774). Astronomy & Astrophysics, doi:10.1051/0004-6361/202245774. *In press*.
 - MacKenzie J., J.L. Grenfell, <u>P. Baumeister</u>, **N. Tosi**, J. Cabrera and H. Rauer (2023). [Effect of improved atmospheric opacities in modeling sub-Neptunes. A case study for GJ 1214 b](https://www.aanda.org/articles/aa/full_html/2023/03/aa41784-21/aa41784-21.html). Astronomy & Astrophysics, 671, A65, doi:10.1051/0004-6361/202141784
 
