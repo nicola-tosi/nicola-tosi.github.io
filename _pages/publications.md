@@ -19,7 +19,7 @@ author_profile: true
 
 2023
 ======
-- <u>Baumeister P.</u> and **N. Tosi** (2023). ExoMDN: Rapid characterization of exoplanet interior structures with Mixture Density Networks. Astronomy & Astrophysics. *In press*. [Link to Github repository.](https://github.com/philippbaumeister/ExoMDN)
+- <u>Baumeister P.</u> and **N. Tosi** (2023). ExoMDN: Rapid characterization of exoplanet interior structures with Mixture Density Networks. Astronomy & Astrophysics. *In press*. [ExoMDN Github repository.](https://github.com/philippbaumeister/ExoMDN)
 - <u>Baumeister P.</u>, **N. Tosi**, C. Brachmann, J. L. Grenfell and L. Noack (2023). [Redox state and interior structure control on the long-term habitability of stagnant-lid planets.](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202245791). Astronomy & Astrophysics, doi:10.1051/0004-6361/202245791. *In press*.
 - Cabrera et al. (110 authors incl. <u>P. Baumeister</u> and **N. Tosi**) (2023). [The planetary system around HD 190622 (TOI-1054). Measuring the gas content of low-mass planets orbiting F-stars](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202245774). Astronomy & Astrophysics, doi:10.1051/0004-6361/202245774. *In press*.
 - Le Maistre S. et al. (25 authors incl. **N. Tosi**) (2023). [Spin state and deep interior structure of Mars from InSight radio tracking](https://www.nature.com/articles/s41586-023-06150-0). Nature, doi:10.1038/s41586-023-06150-0.
