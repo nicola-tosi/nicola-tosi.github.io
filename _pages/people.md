@@ -16,9 +16,9 @@ author_profile: true
 *Interior structure and evolution of Uranus and Neptune* 
 <br clear="left"/>
 
-## Former group members:
+## Former students and postdocs:
 [Siddhant Agarwal](https://www.researchgate.net/profile/Siddhant-Agarwal-3) (2018-2022) - *PhD* \
-Falko Schulz (2017-2021) - *PhD* \
+Falko Schulz (2017-2021) - *MSc and PhD* \
 [Vojtěch Patočka](http://geo.mff.cuni.cz/~patocka/)  (2018-2020) - *PostDoc* \
 [Maxime Maurice](https://www.researchgate.net/profile/Maxime-Maurice) (2015-2020) - *MSc and PhD* \
 [Shuoran Yu](https://www.researchgate.net/profile/Shuoran-Yu) (2017-2020) - *PhD* (co-advising with Long Xiao)\
