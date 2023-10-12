@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 <img align="left" src="../images/sid.jpg" alt="" width="160"/>  
-[**Siddhant Agarwal**]((https://www.researchgate.net/profile/Siddhant-Agarwal-3) - *PostDoc* \
-*Physics-based machine learning* 
+[**Siddhant Agarwal**](https://www.researchgate.net/profile/Siddhant-Agarwal-3) - *PostDoc* \
+*Physics-based machine learning for mantle convection* 
 <br clear="left"/>
 
 <img align="left" src="../images/philipp.jpg" alt="" width="160"/>  
