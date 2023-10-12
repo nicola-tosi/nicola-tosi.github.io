@@ -12,7 +12,7 @@ author_profile: true
 
 <img align="left" src="../images/philipp.jpg" alt="" width="160"/>  
 [**Philipp Baumeister**](https://philippbaumeister.github.io/) - *PhD student* \
-*Interior structure and evolution of sub-Neptunian exoplanets* 
+*Interior structure and evolution of low-mass exoplanets* 
 <br clear="left"/>
 
 <img align="left" src="../images/marina.jpg" alt="" width="160"/>  
