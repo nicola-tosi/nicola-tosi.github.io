@@ -5,6 +5,10 @@ permalink: /people/
 author_profile: true
 ---
 
+<img align="left" src="../images/sid.jpg" alt="" width="160"/>  
+**Siddhant Agarwal** - *PostDoc* \
+*Physics-based machine learning* 
+<br clear="left"/>
 
 <img align="left" src="../images/philipp.jpg" alt="" width="160"/>  
 [**Philipp Baumeister**](https://philippbaumeister.github.io/) - *PhD student* \
