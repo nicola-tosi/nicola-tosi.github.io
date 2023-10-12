@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <img align="left" src="../images/sid.jpg" alt="" width="160"/>  
-**Siddhant Agarwal** - *PostDoc* \
+[**Siddhant Agarwal**]((https://www.researchgate.net/profile/Siddhant-Agarwal-3) - *PostDoc* \
 *Physics-based machine learning* 
 <br clear="left"/>
 
