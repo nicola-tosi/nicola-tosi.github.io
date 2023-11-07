@@ -25,7 +25,7 @@ author_profile: true
 Falko Schulz (2017-2021) - *MSc and PhD* \
 [Vojtěch Patočka](http://geo.mff.cuni.cz/~patocka/)  (2018-2020) - *PostDoc* \
 [Maxime Maurice](https://www.researchgate.net/profile/Maxime-Maurice) (2015-2020) - *MSc and PhD* \
-[Shuoran Yu](https://www.researchgate.net/profile/Shuoran-Yu) (2017-2020) - *PhD* (co-advising with Long Xiao)\
+[Shuoran Yu](https://www.researchgate.net/profile/Shuoran-Yu) (2017-2020) - *PhD* (co-advising)\
 [Athanasia Nikolaou](https://www.researchgate.net/profile/Athanasia_Nikolaou) (2015-2019) - *PhD* \
 Oliver Henke-Seemann (2019) - *BSc* \
 Alexandre Gallot (2019) - *MSc* \
