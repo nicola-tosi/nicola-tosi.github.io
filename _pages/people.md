@@ -10,17 +10,13 @@ author_profile: true
 *Physics-based machine learning for mantle convection* 
 <br clear="left"/>
 
-<img align="left" src="../images/philipp.jpg" alt="" width="160"/>  
-[**Philipp Baumeister**](https://philippbaumeister.github.io/) - *PhD student* \
-*Interior structure and evolution of low-mass exoplanets* 
-<br clear="left"/>
-
 <img align="left" src="../images/marina.jpg" alt="" width="160"/>  
 **Marina Cano Amoros** - *PhD student* (co-advising with [Nadine Nettelmann](https://www.researchgate.net/profile/Nadine-Nettelmann)) \
 *Interior structure and evolution of Uranus and Neptune* 
 <br clear="left"/>
 
 ## Former students and postdocs:
+[Philipp Baumeister](https://philippbaumeister.github.io/) (2017-2023) - *MSc and PhD* \
 [Siddhant Agarwal](https://www.researchgate.net/profile/Siddhant-Agarwal-3) (2018-2022) - *PhD* \
 Falko Schulz (2017-2021) - *MSc and PhD* \
 [Vojtěch Patočka](http://geo.mff.cuni.cz/~patocka/)  (2018-2020) - *PostDoc* \
