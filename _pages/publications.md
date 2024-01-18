@@ -132,6 +132,7 @@ author_profile: true
 
 pre-2009
 ======
+- **Tosi N.** (2008). [Numerical modelling of present-day mantle convection](https://geo.mff.cuni.cz/theses/2008-Tosi-PhD.pdf). PhD Thesis, Charles University Prague. 
 - **Tosi N.**, Z. Martinec (2007). [Semi-analytical solution for viscous Stokes flow in two eccentrically nested spheres](http://dx.doi.org/10.1111/j.1365-246X.2007.03482.x). Geophysical Journal International, 170, 1015-1030, doi:10.111/j.1365-246X.2007.03482.x. 
 - **Tosi N.**, R. Sabadini, A.M. Marotta and L.L.A. Vermeersen (2005). [Simultaneous inversion for the Earth’s mantle viscosity and mass imbalance in Antarctica and Greenland](http://dx.doi.org/10.1029/2004JB003236). Journal of Geophysical Research - Solid Earth, 110, B07402, doi:10.1029/2004JB003236. 
 
