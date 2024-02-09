@@ -15,6 +15,12 @@ author_profile: true
 *Interior structure and evolution of Uranus and Neptune* 
 <br clear="left"/>
 
+<img align="left" src="../images/aleeda_charly.png" alt="" width="160"/>  
+**Aleeda Charly** - *MSc student* \
+*Interior structure of low-mass exoplanets with constraints* 
+<br clear="left"/>
+
+
 ## Former students and postdocs:
 [Philipp Baumeister](https://philippbaumeister.github.io/) (2017-2023) - *MSc and PhD* \
 [Siddhant Agarwal](https://www.researchgate.net/profile/Siddhant-Agarwal-3) (2018-2022) - *PhD* \
