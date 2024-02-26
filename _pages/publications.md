@@ -17,6 +17,10 @@ author_profile: true
 
 <u>Underlined names</u> indicate supervised PhDs and PostDocs
 
+2024
+======
+- <u>Maurice M.</u>, **N. Tosi** and C. Hüttig (2024). [Small-scale overturn of high-Ti cumulates promoted by the long lifetime of the lunar magma ocean](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JE008060). Journal of Geophysical Research: Planets 129 (2), e2023JE008060, doi:10.1029/2023JE008060.
+
 2023
 ======
 - <u>Baumeister P.</u> and **N. Tosi** (2023). [ExoMDN: Rapid characterization of exoplanet interior structures with Mixture Density Networks](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202346216). Astronomy & Astrophysics, 676, A106, doi:10.1051/0004-6361/202346216, [arXiv:2306.09002](https://arxiv.org/abs/2306.09002), [ExoMDN Github repository](https://github.com/philippbaumeister/ExoMDN). 
