@@ -19,7 +19,7 @@ author_profile: true
 
 2024
 ======
-- <u>Maurice M.</u>, **N. Tosi** and C. Hüttig (2024). [Small-scale overturn of high-Ti cumulates promoted by the long lifetime of the lunar magma ocean](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JE008060). Journal of Geophysical Research: Planets 129 (2), e2023JE008060, doi:10.1029/2023JE008060.
+- <u>Maurice M.</u>, **N. Tosi** and C. Hüttig (2024). [Small-scale overturn of high-Ti cumulates promoted by the long lifetime of the lunar magma ocean](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JE008060). Journal of Geophysical Research - Planets, 129 (2), e2023JE008060, doi:10.1029/2023JE008060.
 
 2023
 ======
