@@ -5,6 +5,11 @@ permalink: /people/
 author_profile: true
 ---
 
+<img align="left" src="../images/valentin.png" alt="" width="160"/>  
+[**Valentin Bonnet Gibet**](https://sites.google.com/view/valentin-bonnet-gibet/home) - *PostDoc* \
+*Long-term coupled evolution of Earth's mantle and core* 
+<br clear="left"/>
+
 <img align="left" src="../images/sid.jpg" alt="" width="160"/>  
 [**Siddhant Agarwal**](https://www.researchgate.net/profile/Siddhant-Agarwal-3) - *PostDoc* \
 *Physics-based machine learning for mantle convection* 
