@@ -7,17 +7,20 @@ author_profile: true
 
 <img align="left" src="../images/valentin.png" alt="" width="160"/>  
 [**Valentin Bonnet Gibet**](https://sites.google.com/view/valentin-bonnet-gibet/home) - *PostDoc* \
-*Long-term coupled evolution of Earth's mantle and core* 
+*Long-term coupled evolution of Earth's mantle and core* \
+[DFG Priority Program *DeepDyn*](https://www.geo.lmu.de/deepdyn/en/)
 <br clear="left"/>
 
 <img align="left" src="../images/sid.jpg" alt="" width="160"/>  
 [**Siddhant Agarwal**](https://www.researchgate.net/profile/Siddhant-Agarwal-3) - *PostDoc* \
-*Physics-based machine learning for mantle convection* 
+*Physics-based machine learning for mantle convection* \
+[BMBF Program *Data skills for early career researchers*](https://www.bildung-forschung.digital/digitalezukunft/de/wissen/Datenkompetenzen/datenkompetenzen_wissenschaftlichen_nachwuchs/Projekte/plages.html?nn=733300)
 <br clear="left"/>
 
 <img align="left" src="../images/marina.jpg" alt="" width="160"/>  
 **Marina Cano Amoros** - *PhD student* (co-advising with [Nadine Nettelmann](https://www.researchgate.net/profile/Nadine-Nettelmann)) \
-*Interior structure and evolution of Uranus and Neptune* 
+*Interior structure and evolution of Uranus and Neptune* \
+[DFG Research Unit *Matter under planetary interior conditions*](https://www.for2440.uni-rostock.de/)
 <br clear="left"/>
 
 <img align="left" src="../images/aleeda_charly.png" alt="" width="160"/>  
