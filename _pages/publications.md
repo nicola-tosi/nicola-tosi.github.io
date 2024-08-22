@@ -19,7 +19,7 @@ author_profile: true
 
 2024
 ======
-- Nettelmann N., <u>M. Cano Amoros</u>, **N. Tosi**, J. J. Fortney, R. Helled (2024). [Atmospheric helium abundances in the giant planets](https://link.springer.com/article/10.1007/s11214-024-01090-1#Ack1). Space Science Review, 220, 56, doi:10.1007/s11214-024-01090-1, [arXiv:2406.16024](https://arxiv.org/abs/2406.16024).
+- Nettelmann N., <u>M. Cano Amoros</u>, **N. Tosi**, J. J. Fortney, R. Helled (2024). [Atmospheric helium abundances in the giant planets](https://link.springer.com/article/10.1007/s11214-024-01090-1). Space Science Review, 220, 56, doi:10.1007/s11214-024-01090-1, [arXiv:2406.16024](https://arxiv.org/abs/2406.16024).
 - <u>Maurice M.</u>, **N. Tosi** and C. Hüttig (2024). [Small-scale overturn of high-Ti cumulates promoted by the long lifetime of the lunar magma ocean](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JE008060). Journal of Geophysical Research - Planets, 129 (2), e2023JE008060, doi:10.1029/2023JE008060.
 
 2023
