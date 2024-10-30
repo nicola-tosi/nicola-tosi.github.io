@@ -19,8 +19,8 @@ author_profile: true
 
 2024
 ======
-- Fleury A., A.-C. Plesa, **N. Tosi**, M. Walterova and D. Breuer (2024). Variations of Heat Flux and Elastic Thickness of Mercury from 3-D Thermal Evolution Modeling. Geophysical Research Letters, doi:10.1029/2024GL110622, [ESSO Archive: 10.22541/essoar.172900776.60376472/v1](https://essopenarchive.org/doi/full/10.22541/essoar.172900776.60376472/v1), *In press*.
 - Meier T. G., D. J. Bower, T. Lichtenberg, M. Hammond, P. J. Tackley, R. T. Pierrehumbert, J. A. Caballero, S.-M. Tsai, M. Weiner Mansfield, **N. Tosi** and P. Baumeister (2024). [Geodynamics of super-Earth GJ 486b](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JE008491). Journal of Geophysical Research - Planets, doi:10.1029/2024JE008491, [arXiv:2408.10851](https://arxiv.org/abs/2408.10851), *In press*.
+- Fleury A., A.-C. Plesa, **N. Tosi**, M. Walterova and D. Breuer (2024). Variations of Heat Flux and Elastic Thickness of Mercury from 3-D Thermal Evolution Modeling. Geophysical Research Letters, 51, e2024GL110622, doi:10.1029/2024GL110622, [ESSO Archive: 10.22541/essoar.172900776.60376472/v1](https://essopenarchive.org/doi/full/10.22541/essoar.172900776.60376472/v1).
 - Nettelmann N., <u>M. Cano Amoros</u>, **N. Tosi**, J. J. Fortney and R. Helled (2024). [Atmospheric helium abundances in the giant planets](https://link.springer.com/article/10.1007/s11214-024-01090-1). Space Science Review, 220, 56, doi:10.1007/s11214-024-01090-1, [arXiv:2406.16024](https://arxiv.org/abs/2406.16024).
 - <u>Maurice M.</u>, **N. Tosi** and C. Hüttig (2024). [Small-scale overturn of high-Ti cumulates promoted by the long lifetime of the lunar magma ocean](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JE008060). Journal of Geophysical Research - Planets, 129 (2), e2023JE008060, doi:10.1029/2023JE008060.
 
