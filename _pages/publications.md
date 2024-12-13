@@ -19,7 +19,7 @@ author_profile: true
 
 2024
 ======
-- Höning D., L. Carone, P. Baumeister, K. L> Chubb,  J.L. Grenfell, K. Hakim, N. Iro, B. Taysum and **N. Tosi** (2024).  [The effect of a biosphere on the habitable timespan of stagnant-lid planets and implications for the atmospheric spectrum
+- Höning D., L. Carone, P. Baumeister, K. L> Chubb,  J.L. Grenfell, K. Hakim, N. Iro, B. Taysum and **N. Tosi** (2024).  [The effect of a biosphere on the habitable timespan of stagnant-lid planets and implications for the atmospheric spectrum]
 (https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202451940). Astronomy & Astrophysics, doi:10.1051/0004-6361/202451940. *In press*. 
 - <u>M. Cano Amoros</u>, Nettelmann N., **N. Tosi**, P. Baumeister and H. Rauer (2024). [H<sub>2</sub>-H<sub>2</sub>O demixing in Uranus and Neptune: Adiabatic structure models](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202452148). Astronomy & Astrophysics, 692, A152, doi:10.1051/0004-6361/202452148, [arXiv:2410.21099](https://arxiv.org/abs/2410.21099).
 - Meier T. G., D. J. Bower, T. Lichtenberg, M. Hammond, P. J. Tackley, R. T. Pierrehumbert, J. A. Caballero, S.-M. Tsai, M. Weiner Mansfield, **N. Tosi** and P. Baumeister (2024). [Geodynamics of super-Earth GJ 486b](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JE008491). Journal of Geophysical Research  Planets, 129, e2024JE008491, doi:10.1029/2024JE008491, [arXiv:2408.10851](https://arxiv.org/abs/2408.10851).
