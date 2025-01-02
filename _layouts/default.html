@@ -27,22 +27,46 @@ layout: compress
 
     {% include scripts.html %}
     
-    <button id="dark-mode-toggle" style="position: fixed; bottom: 10px; right: 10px; z-index: 1000;">
-        Toggle Dark Mode
-    </button>
+<!-- Dark Mode Toggle Button -->
+<button id="dark-mode-toggle" style="position: fixed; bottom: 10px; right: 10px; z-index: 1000;">
+    Toggle Dark Mode
+</button>
 
-    <script>
-      const toggle = document.querySelector("#dark-mode-toggle");
-      toggle.addEventListener("click", () => {
-          document.body.classList.toggle("dark-mode");
-          localStorage.setItem("dark-mode", document.body.classList.contains("dark-mode"));
-      });
+<style>
+    /* Dark Mode Styles */
+    body.dark-mode {
+        background-color: #121212;
+        color: #ffffff;
+    }
+    body.dark-mode a {
+        color: #66ccff;
+    }
+    #dark-mode-toggle {
+        background-color: #333;
+        color: #fff;
+        border: none;
+        padding: 10px 15px;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+    #dark-mode-toggle:hover {
+        background-color: #555;
+    }
+</style>
 
-      // Apply the saved theme on page load
-      if (localStorage.getItem("dark-mode") === "true") {
-          document.body.classList.add("dark-mode");
-      }
-      </script>
+<script>
+    const toggle = document.querySelector("#dark-mode-toggle");
+    toggle.addEventListener("click", () => {
+        document.body.classList.toggle("dark-mode");
+        localStorage.setItem("dark-mode", document.body.classList.contains("dark-mode"));
+    });
+
+    // Apply the saved theme on page load
+    if (localStorage.getItem("dark-mode") === "true") {
+        document.body.classList.add("dark-mode");
+    }
+</script>
+
 
   </body>
 </html>
