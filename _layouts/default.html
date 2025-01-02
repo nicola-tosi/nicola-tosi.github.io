@@ -24,7 +24,20 @@ layout: compress
         {% include footer.html %}
       </footer>
     </div>
+    
+<script>
+    const toggle = document.querySelector("#dark-mode-toggle");
+    toggle.addEventListener("click", () => {
+        document.body.classList.toggle("dark-mode");
+        localStorage.setItem("dark-mode", document.body.classList.contains("dark-mode"));
+    });
 
+    // Apply the saved theme on page load
+    if (localStorage.getItem("dark-mode") === "true") {
+        document.body.classList.add("dark-mode");
+    }
+</script>
+    
     {% include scripts.html %}
     
 <!-- Dark Mode Toggle Button -->
@@ -53,19 +66,6 @@ layout: compress
         background-color: #555;
     }
 </style>
-
-<script>
-    const toggle = document.querySelector("#dark-mode-toggle");
-    toggle.addEventListener("click", () => {
-        document.body.classList.toggle("dark-mode");
-        localStorage.setItem("dark-mode", document.body.classList.contains("dark-mode"));
-    });
-
-    // Apply the saved theme on page load
-    if (localStorage.getItem("dark-mode") === "true") {
-        document.body.classList.add("dark-mode");
-    }
-</script>
 
 
   </body>
