@@ -59,8 +59,12 @@ function updateNav() {
 }
 
 // Window listeners
-
 $(window).resize(function() {
+  updateNav();
+});
+
+// Run on document ready
+$(document).ready(function() {
   updateNav();
 });
 
@@ -68,5 +72,16 @@ $btn.on('click', function() {
   $hlinks.toggleClass('hidden');
   $(this).toggleClass('close');
 });
+
+// // Window listeners
+
+// $(window).resize(function() {
+//   updateNav();
+// });
+
+// $btn.on('click', function() {
+//   $hlinks.toggleClass('hidden');
+//   $(this).toggleClass('close');
+// });
 
 updateNav();
