@@ -252,7 +252,7 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-minimal_mistakes_skin: dark
+# minimal_mistakes_skin: dark
 
 # Outputting
 permalink: /:categories/:title/
