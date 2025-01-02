@@ -25,69 +25,66 @@ layout: compress
       </footer>
     </div>
         
-    {% include scripts.html %}
-    
-<!-- Dark Mode Toggle Button -->
-<button id="dark-mode-toggle" style="position: fixed; bottom: 10px; right: 10px; z-index: 1000;">
-    Dark Mode
-</button>
+    <!-- Dark Mode Toggle Button -->
+    <button id="dark-mode-toggle" style="position: fixed; bottom: 10px; right: 10px; z-index: 1000;">
+        Dark Mode
+    </button>
 
-<style>
-    /* Dark Mode Styles */
-    body.dark-mode nav, 
-    body.dark-mode .navbar, 
-    body.dark-mode.navbar a {
-      background-color: #333 !important;
-      color: #fff !important;
-    }
-    body.dark-mode .navbar a:hover {
-      color: #66ccff !important;
-    }
-    #dark-mode-toggle {
-        background-color: #333;
-        color: #fff;
-        border: none;
-        padding: 10px 15px;
-        cursor: pointer;
-        border-radius: 5px;
-    }
-    #dark-mode-toggle:hover {
-        background-color: #555;
-    }
-</style>
-
-<script>
-    alert("Script is running");
-    // Wait for the page to fully load before running the script
-    document.addEventListener("DOMContentLoaded", function() {
-        console.log("DOM fully loaded and parsed");
-        
-        // Apply the saved theme on page load
-        const darkMode = localStorage.getItem("dark-mode");
-        console.log("Dark mode status from localStorage:", darkMode);
-        if (darkMode === "true") {
-            document.body.classList.add("dark-mode");
-            console.log("Dark mode applied on page load");
+    <style>
+        /* Dark Mode Styles */
+        body.dark-mode nav, 
+        body.dark-mode .navbar, 
+        body.dark-mode.navbar a {
+          background-color: #333 !important;
+          color: #fff !important;
         }
-
-        // Find the dark mode toggle button
-        const toggle = document.querySelector("#dark-mode-toggle");
-        if (toggle) {
-            console.log("Toggle button found");
-            toggle.addEventListener("click", () => {
-                // Toggle dark mode on and off
-                document.body.classList.toggle("dark-mode");
-                console.log("Dark mode toggled. Current state:", document.body.classList.contains("dark-mode"));
-                // Save the current dark mode status to localStorage
-                localStorage.setItem("dark-mode", document.body.classList.contains("dark-mode"));
-                console.log("Dark mode status saved to localStorage:", document.body.classList.contains("dark-mode"));
-            });
-        } else {
-            console.log("Toggle button not found");
+        body.dark-mode .navbar a:hover {
+          color: #66ccff !important;
         }
-    });
-</script>
+        #dark-mode-toggle {
+            background-color: #333;
+            color: #fff;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        #dark-mode-toggle:hover {
+            background-color: #555;
+        }
+    </style>
+
+    <script>
+        alert("Script is running");
+        // Wait for the page to fully load before running the script
+        document.addEventListener("DOMContentLoaded", function() {
+            console.log("DOM fully loaded and parsed");
+            
+            // Apply the saved theme on page load
+            const darkMode = localStorage.getItem("dark-mode");
+            console.log("Dark mode status from localStorage:", darkMode);
+            if (darkMode === "true") {
+                document.body.classList.add("dark-mode");
+                console.log("Dark mode applied on page load");
+            }
+
+            // Find the dark mode toggle button
+            const toggle = document.querySelector("#dark-mode-toggle");
+            if (toggle) {
+                console.log("Toggle button found");
+                toggle.addEventListener("click", () => {
+                    // Toggle dark mode on and off
+                    document.body.classList.toggle("dark-mode");
+                    console.log("Dark mode toggled. Current state:", document.body.classList.contains("dark-mode"));
+                    // Save the current dark mode status to localStorage
+                    localStorage.setItem("dark-mode", document.body.classList.contains("dark-mode"));
+                    console.log("Dark mode status saved to localStorage:", document.body.classList.contains("dark-mode"));
+                });
+            } else {
+                console.log("Toggle button not found");
+            }
+        });
+    </script>
 
   </body>
 </html>
-
