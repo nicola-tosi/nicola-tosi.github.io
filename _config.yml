@@ -6,9 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-# theme                    : "minimal-mistakes-jekyll"
-# minimal_mistakes_skin    : "dark"
-
 locale                   : "en-US"
 title                    : "Nicola Tosi"
 title_separator          : "-"
@@ -109,7 +106,6 @@ author:
   linkedin         :
   orcid            : "http://orcid.org/0000-0002-4912-2848"
   pinterest        :
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=6603274149&origin=AuthorEval#tab=metrics"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
@@ -254,6 +250,7 @@ defaults:
 sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
 
 # Outputting
 permalink: /:categories/:title/
