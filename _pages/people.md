@@ -24,7 +24,7 @@ author_profile: true
 <br clear="left"/>
 
 <img align="left" src="../images/aleeda_charly.png" alt="" width="160"/>  
-**Aleeda Charly** - *MSc student* (Potsdam University) \
+**Aleeda Charly** - *MSc student* \
 *Interior structure of low-mass exoplanets with constraints* 
 <br clear="left"/>
 
