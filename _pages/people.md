@@ -14,7 +14,7 @@ author_profile: true
 <img align="left" src="../images/sid.jpg" alt="" width="160"/>  
 [**Siddhant Agarwal**](https://www.researchgate.net/profile/Siddhant-Agarwal-3) - *PostDoc* \
 *Physics-based machine learning for mantle convection* \
-[BMBF Program *Data skills for early career researchers*](https://www.bildung-forschung.digital/digitalezukunft/de/wissen/Datenkompetenzen/datenkompetenzen_wissenschaftlichen_nachwuchs/Projekte/plages.html?nn=733300)
+[BMBF Program *Data competence for early career researchers*](https://www.bildung-forschung.digital/digitalezukunft/de/wissen/Datenkompetenzen/datenkompetenzen_wissenschaftlichen_nachwuchs/Projekte/plages.html?nn=733300)
 <br clear="left"/>
 
 <img align="left" src="../images/marina.jpg" alt="" width="160"/>  
