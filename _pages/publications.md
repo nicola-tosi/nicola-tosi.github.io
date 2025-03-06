@@ -17,6 +17,11 @@ author_profile: true
 
 <u>Underlined names</u> indicate supervised PhDs and PostDocs
 
+2025
+======
+- Agarwal S., **N. Tosi**, C. Hüttig, D. S. Greenberg and A. C. Bekar (2025). Accelerating the discovery of steady‐states of planetary
+interior dynamics with machine learning. Journal of Geophysical Research: Machine Learning and Computation, 2, e2024JH000438, doi:10.1029/2024JH000438. *In press*.
+
 2024
 ======
 - Höning D., L. Carone, P. Baumeister, K. L. Chubb,  J.L. Grenfell, K. Hakim, N. Iro, B. Taysum and **N. Tosi** (2024).  [The effect of a biosphere on the habitable timespan of stagnant-lid planets and implications for the atmospheric spectrum](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202451940). Astronomy & Astrophysics, 693, A205, doi:10.1051/0004-6361/202451940 [arXiv:2412.11537](https://arxiv.org/abs/2412.11537). 
