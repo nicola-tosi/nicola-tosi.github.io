@@ -20,7 +20,7 @@ author_profile: true
 2025
 ======
 - <u>Agarwal S.</u>, **N. Tosi**, C. Hüttig, D. S. Greenberg and A. C. Bekar (2025). Accelerating the discovery of steady‐states of planetary
-interior dynamics with machine learning. Journal of Geophysical Research - Machine Learning and Computation, 2, e2024JH000438, doi:10.1029/2024JH000438. *In press*.
+interior dynamics with machine learning. Journal of Geophysical Research - Machine Learning and Computation, 2, e2024JH000438, doi:10.1029/2024JH000438. [arXiv:2408.17298](https://arxiv.org/abs/2408.17298). *In press*.
 
 2024
 ======
