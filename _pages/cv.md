@@ -37,6 +37,7 @@ Education
 Projects
 ======
 **2024 — 2025** The co-evolution of mantle and core over Earth's history. *DFG Priority Program* [DeepDyn: Reconstructing the deep dynamics of planet Earth over geologic time](https://www.geo.lmu.de/deepdyn/de/index.html). \
+**2024 - 2025** The thermal and petrological history of Mercury’s heterogeneous mantle. [*ISSI International Team*](https://teams.issibern.ch/mercurysmantle/) \
 **2023 — 2025** PLAGeS: Physics-based Learning Algorithms for Geophysical fluid Simulations. *BMBF*. [Datenkompetenzen für den wissenschaftlichen Nachwuchs](https://www.bildung-forschung.digital/digitalezukunft/de/wissen/Datenkompetenzen/datenkompetenzen_wissenschaftlichen_nachwuchs/datenkompetenzen_wiss_nachwuchs_node.html). \
 **2022 — 2025** Structure and thermal evolution models for Neptune-like planets. *DFG Research Unit* [Matter under planetary conditions](https://www.for2440.uni-rostock.de/home/). \
 **2021 — 2023** Structural and thermal models of rocky planets and solid exoplanets. *DFG Research Unit* [Matter under planetary conditions](https://www.for2440.uni-rostock.de/home/). \
