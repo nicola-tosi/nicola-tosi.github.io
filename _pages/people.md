@@ -28,7 +28,8 @@ author_profile: true
 *Interior structure of low-mass exoplanets with constraints* 
 <br clear="left"/>
 
-**Michelle Colantoni** - *MSc student* \ *H2-H2O phase separation in water-rich exoplanets*
+**Michelle Colantoni** - *MSc student* \
+*H2-H2O phase separation in water-rich exoplanets*
 
 ## Former students and postdocs:
 [Philipp Baumeister](https://philippbaumeister.github.io/) (2017-2023) - *MSc and PhD* \
