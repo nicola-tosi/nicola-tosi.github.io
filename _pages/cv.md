@@ -37,12 +37,12 @@ Education
 Projects
 ======
 **2024 — 2025** The co-evolution of mantle and core over Earth's history. *DFG Priority Program* [DeepDyn: Reconstructing the deep dynamics of planet Earth over geologic time](https://www.geo.lmu.de/deepdyn/de/index.html). \
-**2024 - 2025** The thermal and petrological history of Mercury’s heterogeneous mantle. [*ISSI International Team*](https://teams.issibern.ch/mercurysmantle/) \
+**2024 - 2025** The thermal and petrological history of Mercury’s heterogeneous mantle. [*ISSI International Team*](https://teams.issibern.ch/mercurysmantle/). \
 **2023 — 2025** PLAGeS: Physics-based Learning Algorithms for Geophysical fluid Simulations. *BMBF*. [Datenkompetenzen für den wissenschaftlichen Nachwuchs](https://www.bildung-forschung.digital/digitalezukunft/de/wissen/Datenkompetenzen/datenkompetenzen_wissenschaftlichen_nachwuchs/datenkompetenzen_wiss_nachwuchs_node.html). \
 **2022 — 2025** Structure and thermal evolution models for Neptune-like planets. *DFG Research Unit* [Matter under planetary conditions](https://www.for2440.uni-rostock.de/home/). \
 **2021 — 2023** Structural and thermal models of rocky planets and solid exoplanets. *DFG Research Unit* [Matter under planetary conditions](https://www.for2440.uni-rostock.de/home/). \
 **2018 — 2022** Unravelling the interior evolution of terrestrial planets with machine learning. *Helmholtz Graduate School in Data Science* [HEIBRIDS](https://www.heibrids.berlin/). \
 **2018 — 2020** Interior-atmosphere feedbacks and the nature of detected sub-Neptunian planets. *DFG Priority Program* [Exploring the diversity of extrasolar planets](http://www-astro.physik.tu-berlin.de/exoplanet-diversity/). \
 **2017 — 2019** Crystallising the terrestrial magma ocean: Thermo- and Geodynamics. *DFG Priority Program* [Building a habitable Earth](http://www.habitableearth.uni-koeln.de/). \
-**2014 — 2019** Early dynamics of the terrestrial planets. *Helmholtz Young Investigator Group*. \
+**2014 — 2019** Early dynamics of the terrestrial planets. [*Helmholtz Young Investigator Group*](https://www.helmholtz.de/en/career/careers-at-helmholtz/helmholtz-investigator-groups/). \
 **2011 — 2014** Structure and dynamics of Mercury’s interior from a new generation of space-geodetic observations. *DFG Individual Research Grant*. 
