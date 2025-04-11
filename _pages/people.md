@@ -23,15 +23,14 @@ author_profile: true
 [DFG Research Unit *Matter under planetary interior conditions*](https://www.for2440.uni-rostock.de/)
 <br clear="left"/>
 
-<img align="left" src="../images/aleeda_charly.png" alt="" width="160"/>  
-**Aleeda Charly** - *MSc student* \
-*Interior structure of low-mass exoplanets with constraints* 
-<br clear="left"/>
-
 **Michelle Colantoni** - *MSc student* \
 *H2-H2O phase separation in water-rich exoplanets*
 
+**Aman Mohan** - *MSc student* \
+*Thermal and outgassing evolution of rocky exoplanets*
+
 ## Former students and postdocs:
+Aleeda Charly (2024-2025) - *MSc* \
 [Philipp Baumeister](https://philippbaumeister.github.io/) (2017-2023) - *MSc and PhD* \
 [Siddhant Agarwal](https://www.researchgate.net/profile/Siddhant-Agarwal-3) (2018-2022) - *PhD* \
 Falko Schulz (2017-2021) - *MSc and PhD* \
