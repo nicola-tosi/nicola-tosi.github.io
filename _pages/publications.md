@@ -19,7 +19,7 @@ author_profile: true
 
 2025
 ======
-**Tosi N.**, <u>F. Schulz</u>, M. Walterová and S. Padovan (2025). [The influence of spin–orbit resonances on the evolution of Mercury’s mantle and crust](https://www.sciencedirect.com/science/article/pii/S0019103525001770?utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_medium=email&utm_acid=307496231&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&CMX_ID=&utm_in=DM568979&utm_source=AC_). Icarus. *In Press*.
+- **Tosi N.**, <u>F. Schulz</u>, M. Walterová and S. Padovan (2025). [The influence of spin–orbit resonances on the evolution of Mercury’s mantle and crust](https://www.sciencedirect.com/science/article/pii/S0019103525001770?utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_medium=email&utm_acid=307496231&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&CMX_ID=&utm_in=DM568979&utm_source=AC_). Icarus. *In Press*.
 - <u>Agarwal S.</u>, **N. Tosi**, C. Hüttig, D. S. Greenberg and A. C. Bekar (2025). [Accelerating the discovery of steady‐states of planetary
 interior dynamics with machine learning](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JH000438). Journal of Geophysical Research - Machine Learning and Computation, 2, e2024JH000438, doi:10.1029/2024JH000438. 
 
