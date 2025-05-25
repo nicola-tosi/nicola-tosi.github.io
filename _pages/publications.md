@@ -20,6 +20,7 @@ author_profile: true
 2025
 ======
 - **Tosi N.**, <u>F. Schulz</u>, M. Walterová and S. Padovan (2025). [The influence of spin–orbit resonances on the evolution of Mercury’s mantle and crust](https://www.sciencedirect.com/science/article/pii/S0019103525001770?utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_medium=email&utm_acid=307496231&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&CMX_ID=&utm_in=DM568979&utm_source=AC_). Icarus, 439, 116630, doi:10.1016/j.icarus.2025.116630.
+- Rauer H., C. Aerts, J. Cabrera et al. (incl. (incl. <u>P. Baumeister</u> and **N. Tosi**) (2025). [The PLATO mission](https://link.springer.com/article/10.1007/s10686-025-09985-9). Experimental Astronomy, 59, 26, doi:10.1007/s10686-025-09985-9.
 - <u>Agarwal S.</u>, **N. Tosi**, C. Hüttig, D. S. Greenberg and A. C. Bekar (2025). [Accelerating the discovery of steady‐states of planetary
 interior dynamics with machine learning](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JH000438). Journal of Geophysical Research - Machine Learning and Computation, 2, e2024JH000438, doi:10.1029/2024JH000438. 
 
@@ -37,15 +38,15 @@ interior dynamics with machine learning](https://agupubs.onlinelibrary.wiley.com
 - <u>Baumeister P.</u> and **N. Tosi** (2023). [ExoMDN: Rapid characterization of exoplanet interior structures with Mixture Density Networks](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202346216). Astronomy & Astrophysics, 676, A106, doi:10.1051/0004-6361/202346216, [arXiv:2306.09002](https://arxiv.org/abs/2306.09002), [ExoMDN Github repository](https://github.com/philippbaumeister/ExoMDN). 
 - <u>Baumeister P.</u>, **N. Tosi**, C. Brachmann, J. L. Grenfell and L. Noack (2023). [Redox state and interior structure control on the long-term habitability of stagnant-lid planets](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202245791). Astronomy & Astrophysics, 675, A122, doi:10.1051/0004-6361/202245791. [arXiv:2301.03466](https://arxiv.org/abs/2301.03466).
 - Yu S., X. Xiao, S. Gong, **N. Tosi**, J. Huang, D. Breuer, L. Xiao and D. Ni (2023). [Long-lived lunar volcanism sustained by precession-driven core-mantle friction](https://academic.oup.com/nsr/article/11/2/nwad276/7335311#435046328). National Science Review, 11, 2, doi:/10.1093/nsr/nwad276.
-- Cabrera J. et al. (incl. <u>P. Baumeister</u> and **N. Tosi**) (2023). [The planetary system around HD 190622 (TOI-1054). Measuring the gas content of low-mass planets orbiting F-stars](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202245774). Astronomy & Astrophysics, 675, A183, doi:10.1051/0004-6361/202245774. 
-- Le Maistre S. et al. (incl. **N. Tosi**) (2023). [Spin state and deep interior structure of Mars from InSight radio tracking](https://www.nature.com/articles/s41586-023-06150-0). Nature, 619, 733-737, doi:10.1038/s41586-023-06150-0.
+- Cabrera J., Gandolfi D., Serrano L.M. et al. (incl. <u>P. Baumeister</u> and **N. Tosi**) (2023). [The planetary system around HD 190622 (TOI-1054). Measuring the gas content of low-mass planets orbiting F-stars](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202245774). Astronomy & Astrophysics, 675, A183, doi:10.1051/0004-6361/202245774. 
+- Le Maistre S., Rivoldini A., Caldiero A. et al. (incl. **N. Tosi**) (2023). [Spin state and deep interior structure of Mars from InSight radio tracking](https://www.nature.com/articles/s41586-023-06150-0). Nature, 619, 733-737, doi:10.1038/s41586-023-06150-0.
 - MacKenzie J., J.L. Grenfell, <u>P. Baumeister</u>, **N. Tosi**, J. Cabrera and H. Rauer (2023). [Effect of improved atmospheric opacities in modeling sub-Neptunes. A case study for GJ 1214 b](https://www.aanda.org/articles/aa/full_html/2023/03/aa41784-21/aa41784-21.html). Astronomy & Astrophysics, 671, A65, doi:10.1051/0004-6361/202141784.
 
 2022
 ======
 - <u>Patočka V.</u>, **N. Tosi** and E. Calzavarini (2022). [Residence time of inertial particles in 3D thermal convection: Implications for magma reservoirs](https://www.sciencedirect.com/science/article/abs/pii/S0012821X22002588?via%3Dihub). Earth and Planetary Science Letters, 591, 117622, doi:10.1016/j.epsl.2022.117622, [arXiv:2202.12633.](https://arxiv.org/abs/2202.12633)
-- Kawamura T. et al. (incl. **N. Tosi**) (2022). [An autonomous lunar geophysical experiment package (ALGEP) for future space missions](https://link.springer.com/article/10.1007/s10686-022-09857-6). Experimental Astronomy, doi:10.1007/s10686-022-09857-6.
-- Dehant V. et al. (incl. **N. Tosi**) (2022). [From Science Questions to Solar System Exploration](https://www.sciencedirect.com/science/article/pii/B9780323902267000064?via%3Dihub). [In: Planetary Exploration Horizon 2061](https://www.elsevier.com/books/planetary-exploration-horizon-2061/blanc/978-0-323-90226-7), M. Blanc (ed.), Ch. 3, Elsevier, doi:10.1016/B978-0-323-90226-7.00006-4, [arXiv:2211.04474](https://arxiv.org/abs/2211.04474).
+- Kawamura T., Grott M., Garcia R. (incl. **N. Tosi**) (2022). [An autonomous lunar geophysical experiment package (ALGEP) for future space missions](https://link.springer.com/article/10.1007/s10686-022-09857-6). Experimental Astronomy, doi:10.1007/s10686-022-09857-6.
+- Dehant V., Blanc M., Mackwell S. et al. (incl. **N. Tosi**) (2022). [From Science Questions to Solar System Exploration](https://www.sciencedirect.com/science/article/pii/B9780323902267000064?via%3Dihub). [In: Planetary Exploration Horizon 2061](https://www.elsevier.com/books/planetary-exploration-horizon-2061/blanc/978-0-323-90226-7), M. Blanc (ed.), Ch. 3, Elsevier, doi:10.1016/B978-0-323-90226-7.00006-4, [arXiv:2211.04474](https://arxiv.org/abs/2211.04474).
 
 2021
 ======
@@ -98,7 +99,7 @@ interior dynamics with machine learning](https://agupubs.onlinelibrary.wiley.com
 ======
 - Plesa A.-C., M. Grott, **N. Tosi**, D. Breuer, T. Spohn, M. Wieczorek (2016). [How large are present‐day heat flux variations across the surface of Mars?](http://onlinelibrary.wiley.com/doi/10.1002/2016JE005126/full) Journal of Geophysical Research - Planets, 121(12), 2386-2403, doi:10.1002/2016JE005126. [*Commentary by W. Kiefer*](http://onlinelibrary.wiley.com/doi/10.1002/2016JE005202/full). [*Research spotlight in EOS*](https://eos.org/research-spotlights/martian-mantle-models-pave-the-way-for-nasas-insight-lander).
 - Breuer D., A.-C. Plesa, **N. Tosi** and M. Grott (2016). [Water in the Martian interior—The geodynamical perspective](http://onlinelibrary.wiley.com/doi/10.1111/maps.12727/full). Meteoritics and Planetary Science, 51(11), 1959-1992, doi:10.1111/maps.12727.
-- Dehant V. et al. (35 authors incl. <u>M. Maurice</u> and **N. Tosi**) (2016). [PLANET TOPERS: Planets, Tracing the Transfer, Origin, Preservation, and Evolution of their ReservoirS](http://link.springer.com/article/10.1007%2Fs11084-016-9488-z). Origins of life and evolution of biospheres, doi:10.1007/s11084-016-9488-z.
+- Dehant V., Asael A., Baland R. M. et al. (incl. <u>M. Maurice</u> and **N. Tosi**) (2016). [PLANET TOPERS: Planets, Tracing the Transfer, Origin, Preservation, and Evolution of their ReservoirS](http://link.springer.com/article/10.1007%2Fs11084-016-9488-z). Origins of life and evolution of biospheres, doi:10.1007/s11084-016-9488-z.
 
 2015
 ======
