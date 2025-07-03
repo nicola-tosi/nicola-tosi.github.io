@@ -1,6 +1,8 @@
 // JavaScript to toggle dark and light modes
 (function() {
   const toggleButton = document.getElementById('dark-mode-toggle');
+  toggleButton.textContent = 'Dark Mode';
+
   const body = document.body;
 
   // Check localStorage for user preference
