@@ -192,9 +192,9 @@ body.dark-mode {
 
 /* Top bar styles for dark mode */
 .top-bar {
-  background-color: $background-light;
+  background-color: $background-light !important;
 }
 
 body.dark-mode .top-bar {
-  background-color: $background-dark;
+  background-color: $background-dark !important;
 }
