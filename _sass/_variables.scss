@@ -172,15 +172,16 @@ body.dark-mode {
   color: $text-dark;
 }
 
-/* Styles for the dark mode toggle button */
+/* Ensure consistent position and smaller font for the dark mode toggle button */
 #dark-mode-toggle {
   position: fixed;
-  top: 15px;
+  top: 20px; /* Consistent position */
   right: 15px;
   z-index: 1000;
   background-color: #f0f0f0;
   border: none;
-  padding: 10px 15px;
+  padding: 8px 12px; /* Adjusted padding for smaller font */
+  font-size: 14px; /* Smaller font size */
   cursor: pointer;
   border-radius: 5px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
