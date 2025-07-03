@@ -42,4 +42,4 @@ Alexandre Gallot (2019) - *MSc* \
 [Sebastiano Padovan](https://www.researchgate.net/profile/Sebastiano_Padovan) (2015-2017) - *PostDoc* \
 Sebastian Prinz (2014) - *MSc* \
 Magdalena Haselsteiner (2014) - *BSc* \
-Annika Stuke (2013) - *BSc*
+[Annika Stuke](https://www.researchgate.net/profile/Annika-Stuke) (2013) - *BSc*
