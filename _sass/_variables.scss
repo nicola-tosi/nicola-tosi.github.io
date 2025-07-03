@@ -189,3 +189,12 @@ body.dark-mode {
 #dark-mode-toggle:hover {
   background-color: #e0e0e0;
 }
+
+/* Top bar styles for dark mode */
+.top-bar {
+  background-color: $background-light;
+}
+
+body.dark-mode .top-bar {
+  background-color: $background-dark;
+}
