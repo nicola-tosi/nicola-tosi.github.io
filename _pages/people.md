@@ -26,6 +26,7 @@ author_profile: true
 <img align="left" src="../images/aman.jpg" alt="" width="160"/>  
 **Aman Mohan** - *MSc student* \
 *Thermal and outgassing evolution of rocky exoplanets*
+<br clear="left"/>
 
 ## Former students and postdocs:
 Michelle Colantoni (2025) - *MSc* \
