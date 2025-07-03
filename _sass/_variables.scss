@@ -215,7 +215,8 @@ body.dark-mode .masthead.top-bar {
   color: $text-light;
 }
 
+/* Ensure visible text highlight color in dark mode */
 body.dark-mode ::selection {
-  background-color: $text-dark;
-  color: $background-dark;
+  background-color: #ffcc00; /* Bright yellow for visibility */
+  color: $background-dark; /* Contrast with background */
 }
