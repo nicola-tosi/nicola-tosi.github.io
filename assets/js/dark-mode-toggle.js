@@ -9,11 +9,13 @@
   const savedMode = localStorage.getItem('theme');
   if (savedMode) {
     body.classList.toggle('dark-mode', savedMode === 'dark');
+    console.log('Dark mode applied from localStorage:', savedMode === 'dark');
   }
 
   // Add event listener to toggle button
   toggleButton.addEventListener('click', () => {
     const isDarkMode = body.classList.toggle('dark-mode');
     localStorage.setItem('theme', isDarkMode ? 'dark' : 'light');
+    console.log('Dark mode toggled:', isDarkMode);
   });
 })();
