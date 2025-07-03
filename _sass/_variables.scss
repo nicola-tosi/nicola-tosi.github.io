@@ -202,20 +202,29 @@ body.dark-mode .top-bar {
   border-bottom: 1px solid $text-dark !important; /* Add border for visibility */
 }
 
-/* Redesign top bar styles */
+/* Revert top bar styles */
 .masthead.top-bar {
-  background: linear-gradient(to right, $primary-color, $dark-gray);
+  background-color: #ffffff; /* White for light mode */
   padding: 10px 20px;
   font-size: 16px;
   font-weight: bold;
   color: $text-light;
 }
 
-/* Dark mode styles for redesigned top bar */
 body.dark-mode .masthead.top-bar {
-  background: linear-gradient(to right, $background-dark, $darker-gray);
+  background-color: #000000; /* Black for dark mode */
   color: $text-dark;
   border-bottom: 2px solid $text-dark;
+}
+
+/* Ensure inner elements inherit top bar styles */
+.masthead.top-bar a {
+  color: inherit;
+  text-decoration: none;
+}
+
+body.dark-mode .masthead.top-bar a {
+  color: inherit;
 }
 
 /* Fix top bar styles and highlight color */
