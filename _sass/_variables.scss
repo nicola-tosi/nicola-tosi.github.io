@@ -219,12 +219,12 @@ body.dark-mode .masthead.top-bar {
 
 /* Ensure inner elements inherit top bar styles */
 .masthead.top-bar a {
-  color: inherit;
+  color: $masthead-link-color; /* Revert to original link color */
   text-decoration: none;
 }
 
 body.dark-mode .masthead.top-bar a {
-  color: inherit;
+  color: $masthead-link-color-hover; /* Revert to original hover color */
 }
 
 /* Fix top bar styles and highlight color */
