@@ -23,6 +23,7 @@ author_profile: true
 [DFG Research Unit *Matter under planetary interior conditions*](https://www.for2440.uni-rostock.de/)
 <br clear="left"/>
 
+<img align="left" src="../images/aman.jpg" alt="" width="160"/>  
 **Aman Mohan** - *MSc student* \
 *Thermal and outgassing evolution of rocky exoplanets*
 
