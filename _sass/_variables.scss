@@ -199,4 +199,5 @@ body.dark-mode {
 body.dark-mode .top-bar {
   background-color: $background-dark !important;
   color: $text-dark !important;
+  border-bottom: 1px solid $text-dark !important; /* Add border for visibility */
 }
