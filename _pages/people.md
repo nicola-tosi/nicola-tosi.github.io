@@ -36,7 +36,7 @@ Falko Schulz (2017-2021) - *MSc and PhD* \
 [Maxime Maurice](https://www.researchgate.net/profile/Maxime-Maurice) (2015-2020) - *MSc and PhD* \
 [Shuoran Yu](https://www.researchgate.net/profile/Shuoran-Yu) (2017-2020) - *PhD* (co-advising)\
 [Athanasia Nikolaou](https://www.researchgate.net/profile/Athanasia_Nikolaou) (2015-2019) - *PhD* \
-Oliver Henke-Seemann (2019) - *BSc* \
+[Oliver Henke-Seemann](https://www.geo.fu-berlin.de/en/geol/fachrichtungen/planet/projects/geodyn/staff_noack/Doctoral-candidates/Henke-Seemann/index.html) (2019) - *BSc* \
 Alexandre Gallot (2019) - *MSc* \
 [Dennis Höning](http://www.dhoening.de/) (2016-2018) - *PostDoc* \
 [Sebastiano Padovan](https://www.researchgate.net/profile/Sebastiano_Padovan) (2015-2017) - *PostDoc* \
