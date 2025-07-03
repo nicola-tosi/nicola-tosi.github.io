@@ -23,13 +23,11 @@ author_profile: true
 [DFG Research Unit *Matter under planetary interior conditions*](https://www.for2440.uni-rostock.de/)
 <br clear="left"/>
 
-**Michelle Colantoni** - *MSc student* \
-*H2-H2O phase separation in water-rich exoplanets*
-
 **Aman Mohan** - *MSc student* \
 *Thermal and outgassing evolution of rocky exoplanets*
 
 ## Former students and postdocs:
+Michelle Colantoni (2025) - *MSc* \
 [Aleeda Charly](https://www.researchgate.net/profile/Aleeda-Charly-2) (2024-2025) - *MSc* \
 [Philipp Baumeister](https://philippbaumeister.github.io/) (2017-2023) - *MSc and PhD* \
 [Siddhant Agarwal](https://www.researchgate.net/profile/Siddhant-Agarwal-3) (2018-2022) - *PhD* \
