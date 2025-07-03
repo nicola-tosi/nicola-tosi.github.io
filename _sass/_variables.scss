@@ -219,18 +219,19 @@ body.dark-mode .masthead.top-bar {
 
 /* Ensure inner elements inherit top bar styles */
 .masthead.top-bar a {
-  color: $masthead-link-color; /* Revert to original link color */
+  color: $masthead-link-color !important; /* Force original link color */
   text-decoration: none;
-  font-size: 16px; /* Increase font size */
+  font-size: 18px; /* Further increase font size */
 }
 
 body.dark-mode .masthead.top-bar a {
-  color: $masthead-link-color-hover; /* Revert to original hover color */
+  color: $masthead-link-color-hover !important; /* Force hover color */
 }
 
 /* Fix rectangle background in dark mode */
 body.dark-mode .masthead.top-bar {
   background-color: $background-dark !important; /* Ensure rectangle adapts to dark mode */
+  color: $text-dark !important; /* Ensure text color adapts */
 }
 
 /* Fix top bar styles and highlight color */
