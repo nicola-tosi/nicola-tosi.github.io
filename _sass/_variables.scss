@@ -217,15 +217,17 @@ body.dark-mode .masthead.top-bar {
   border-bottom: 2px solid $text-dark;
 }
 
-/* Constrain the width of the top bar rectangle and center it */
+/* Align the width of the top bar rectangle to the left */
 .masthead.top-bar {
   max-width: 1200px; /* Set a maximum width */
-  margin: 0 auto; /* Center the rectangle */
+  margin: 0; /* Align to the left */
 }
 
 body.dark-mode .masthead.top-bar {
   max-width: 1200px; /* Ensure consistent width in dark mode */
-  margin: 0 auto; /* Center the rectangle */
+  margin: 0; /* Align to the left */
+  background-color: $background-dark !important; /* Ensure dark mode background */
+  color: $text-dark !important; /* Ensure text color adapts */
 }
 
 /* Ensure inner elements inherit top bar styles */
