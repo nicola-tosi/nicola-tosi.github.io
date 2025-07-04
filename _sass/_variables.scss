@@ -235,9 +235,9 @@ body.dark-mode .masthead.top-bar {
   border-bottom: 2px solid $text-dark !important; /* Add border for visibility */
 }
 
-/* Ensure inner elements inherit top bar styles */
 body.dark-mode .masthead.top-bar .top-bar {
   background-color: $background-dark !important; /* Force internal rectangle to adapt */
+  color: $text-dark !important; /* Ensure text color adapts */
 }
 
 /* Fix top bar styles and highlight color */
