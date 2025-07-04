@@ -204,17 +204,21 @@ body.dark-mode .top-bar {
 
 /* Revert top bar styles */
 .masthead.top-bar {
-  background-color: #ffffff; /* White for light mode */
+  background-color: $background-light !important; /* Use variable for light mode */
   padding: 10px 20px;
   font-size: 16px;
   font-weight: bold;
   color: $text-light;
+  max-width: 1200px;
+  margin: 0;
 }
 
 body.dark-mode .masthead.top-bar {
-  background-color: #000000; /* Black for dark mode */
-  color: $text-dark;
-  border-bottom: 2px solid $text-dark;
+  background-color: $background-dark !important; /* Use variable for dark mode */
+  color: $text-dark !important;
+  border-bottom: 2px solid $text-dark !important;
+  max-width: 1200px;
+  margin: 0;
 }
 
 /* Align the width of the top bar rectangle to the left */
