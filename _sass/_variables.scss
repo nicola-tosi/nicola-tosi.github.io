@@ -217,6 +217,17 @@ body.dark-mode .masthead.top-bar {
   border-bottom: 2px solid $text-dark;
 }
 
+/* Constrain the width of the top bar rectangle and center it */
+.masthead.top-bar {
+  max-width: 1200px; /* Set a maximum width */
+  margin: 0 auto; /* Center the rectangle */
+}
+
+body.dark-mode .masthead.top-bar {
+  max-width: 1200px; /* Ensure consistent width in dark mode */
+  margin: 0 auto; /* Center the rectangle */
+}
+
 /* Ensure inner elements inherit top bar styles */
 .masthead.top-bar a {
   color: $masthead-link-color !important; /* Force original link color */
