@@ -65,3 +65,9 @@ body.dark-mode .masthead__inner-wrap {
   color: #eee;          /* Light text */
   // background-color: $background-dark !important; /* Ensure inner wrap adapts to dark mode */
 }
+
+/* Ensure link rectangle adapts to dark mode */
+body.dark-mode .masthead__menu-item {
+  background-color: #222; /* Match dark rectangle */
+  color: #eee; /* Light text */
+}
