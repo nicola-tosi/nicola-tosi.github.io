@@ -208,7 +208,8 @@ body.dark-mode .top-bar {
   font-weight: bold;
   color: $text-light;
   max-width: 1200px;
-  margin: 0;
+  margin: 0 auto; /* Center align within the page */
+  display: block; /* Ensure block-level behavior */
 }
 
 body.dark-mode .masthead.top-bar {
@@ -216,20 +217,29 @@ body.dark-mode .masthead.top-bar {
   color: $text-dark !important;
   border-bottom: 2px solid $text-dark !important;
   max-width: 1200px;
-  margin: 0;
+  margin: 0 auto; /* Center align within the page */
+  display: block; /* Ensure block-level behavior */
 }
 
 /* Align the width of the top bar rectangle to the left */
 .masthead.top-bar {
   max-width: 1200px; /* Set a maximum width */
-  margin: 0; /* Align to the left */
+  margin: 0 auto; /* Center align within the page */
+  display: block; /* Ensure block-level behavior */
+  background-color: $background-light !important; /* Use variable for light mode */
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  color: $text-light;
 }
 
 body.dark-mode .masthead.top-bar {
-  max-width: 1200px; /* Ensure consistent width in dark mode */
-  margin: 0; /* Align to the left */
-  background-color: $background-dark !important; /* Ensure dark mode background */
-  color: $text-dark !important; /* Ensure text color adapts */
+  background-color: $background-dark !important; /* Use variable for dark mode */
+  color: $text-dark !important;
+  border-bottom: 2px solid $text-dark !important;
+  max-width: 1200px;
+  margin: 0 auto; /* Center align within the page */
+  display: block; /* Ensure block-level behavior */
 }
 
 /* Ensure inner elements inherit top bar styles */
