@@ -66,18 +66,18 @@ body.dark-mode .masthead {
 }
 
 body.dark-mode .masthead__inner-wrap {
-  background-color: #000000; /* Dark background */
+  background-color: #121212; /* Dark background */
   color: #eee;          /* Light text */
   // background-color: $background-dark !important; /* Ensure inner wrap adapts to dark mode */
 }
 
 /* Ensure link rectangle adapts to dark mode */
 body.dark-mode .masthead__menu-item {
-  background-color: #000000; /* Match dark rectangle */
+  background-color: #121212; /* Match dark rectangle */
   color: #eee; /* Light text */
 }
 
 /* Ensure link text color adapts to dark mode */
 body.dark-mode .masthead__menu-item a {
-  color: #ffffff !important; /* Set link text to white */
+  color: inherit !important; /* Inherit text color from parent */
 }
