@@ -42,6 +42,11 @@
   }
 }
 
+/* Adjust width of masthead menu rectangle */
+body.dark-mode .masthead__menu {
+  max-width: fit-content; /* Ensure rectangle matches link content width */
+}
+
 .masthead__menu-item {
   display: block;
   list-style-type: none;
