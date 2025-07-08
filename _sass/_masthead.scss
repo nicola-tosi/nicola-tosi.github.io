@@ -61,5 +61,7 @@ body.dark-mode .masthead {
 }
 
 body.dark-mode .masthead__inner-wrap {
-  background-color: $background-dark !important; /* Ensure inner wrap adapts to dark mode */
+  background-color: #222; /* Dark background */
+  color: #eee;          /* Light text */
+  // background-color: $background-dark !important; /* Ensure inner wrap adapts to dark mode */
 }
