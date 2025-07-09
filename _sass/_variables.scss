@@ -281,12 +281,12 @@ body.dark-mode ::selection {
 
 
 
-body.dark-mode .masthead.top-bar {
-  position: relative; /* Align relative to the page */
-  left: 0; /* Align to the leftmost edge */
-  width: 100%; /* Match the width of the content */
-  max-width: 1200px; /* Set a maximum width */
+// body.dark-mode .masthead.top-bar {
+//   position: relative; /* Align relative to the page */
+//   left: 0; /* Align to the leftmost edge */
+//   width: 100%; /* Match the width of the content */
+//   max-width: 1200px; /* Set a maximum width */
   // background-color: $background-dark !important; /* Use variable for dark mode */
   // color: $text-dark !important;
   // border-bottom: 2px solid $text-dark !important;
-}
+// }
