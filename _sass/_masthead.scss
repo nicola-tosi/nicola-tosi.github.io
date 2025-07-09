@@ -64,7 +64,7 @@ body.dark-mode .masthead__menu {
 body.dark-mode .masthead {
   background-color: $background-dark !important; /* Ensure masthead adapts to dark mode */
   color: $text-dark !important; /* Ensure text color adapts */
-  border-bottom: 1px solid $text-dark !important; /* Add border for visibility */
+  border-bottom: 2px solid $border-color; //1px solid $text-dark !important; /* Add border for visibility */
 }
 
 body.dark-mode .masthead__inner-wrap {
