@@ -3,10 +3,8 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
-  left: 200px; /* Align with the left table of contents */
-  
-  // top: 0; /* Fix to the top of the viewport */
+  position: fixed;
+  top: 0; /* Fix to the top of the viewport */
 
   border-bottom: 2px solid $border-color;
   -webkit-animation: intro 0.3s both;
@@ -19,7 +17,6 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    padding-left: 0; /* Ensure left alignment with border */
     font-family: $sans-serif-narrow;
     margin-left: 0px; /* Align with the left table of contents */
     
@@ -67,7 +64,7 @@ body.dark-mode .masthead__menu {
 body.dark-mode .masthead {
   background-color: $background-dark !important; /* Ensure masthead adapts to dark mode */
   color: $text-dark !important; /* Ensure text color adapts */
-  border-bottom: 2px solid $border-color; //1px solid $text-dark !important; /* Add border for visibility */
+  border-bottom: 2px solid $border-color !important; //1px solid $text-dark !important; /* Add border for visibility */
 }
 
 body.dark-mode .masthead__inner-wrap {
