@@ -18,9 +18,8 @@
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
-    padding-left: 0; /* Ensure left alignment with border */
     font-family: $sans-serif-narrow;
-    margin-left: 0px; /* Align with the left table of contents */
+    margin-left: 100px; /* Align with the left table of contents */
     
     @include breakpoint($x-large) {
       max-width: $x-large;
