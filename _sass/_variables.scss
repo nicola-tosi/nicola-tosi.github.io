@@ -201,14 +201,14 @@ body.dark-mode .top-bar {
 }
 
 /* Cleaned up repeated blocks for top bar styles */
-.masthead.top-bar {
-  max-width: 1200px; /* Set a maximum width */
-  margin: 0 auto; /* Center align within the page */
-  display: block; /* Ensure block-level behavior */
-  padding: 10px 20px;
-  font-size: 16px;
-  font-weight: bold;
-}
+// .masthead.top-bar {
+//   max-width: 1200px; /* Set a maximum width */
+//   margin: 0 auto; /* Center align within the page */
+//   display: block; /* Ensure block-level behavior */
+//   padding: 10px 20px;
+//   font-size: 16px;
+//   font-weight: bold;
+// }
 
 body.light-mode .masthead.top-bar {
   background-color: $background-light !important; /* Use variable for light mode */
@@ -234,24 +234,12 @@ body.dark-mode .masthead.top-bar a {
   color: $masthead-link-color-hover !important; /* Force hover color */
 }
 
-/* Fix rectangle background in dark mode */
-body.dark-mode .masthead.top-bar {
-  background-color: $background-dark !important; /* Ensure rectangle adapts to dark mode */
-  color: $text-dark !important; /* Ensure text color adapts */
-  border-bottom: 2px solid $text-dark !important; /* Add border for visibility */
-}
 
-body.dark-mode .masthead.top-bar .top-bar {
-  background-color: $background-dark !important; /* Force internal rectangle to adapt */
-  color: $text-dark !important; /* Ensure text color adapts */
-}
+// body.dark-mode .masthead.top-bar .top-bar {
+//   background-color: $background-dark !important; /* Force internal rectangle to adapt */
+//   color: $text-dark !important; /* Ensure text color adapts */
+// }
 
-/* Fix top bar styles and highlight color */
-body.dark-mode .masthead.top-bar {
-  background-color: $background-dark !important;
-  color: $text-dark !important;
-  border-bottom: 1px solid $text-dark !important;
-}
 
 /* Ensure visible text highlight color */
 ::selection {
@@ -267,7 +255,7 @@ body.dark-mode ::selection {
 
 /* Ensure the top bar is left-aligned with the leftmost content of the page */
 .masthead.top-bar {
-  position: relative; /* Align relative to the page */
+  position: fixed; /* Align relative to the page */
   left: 0; /* Align to the leftmost edge */
   width: 100%; /* Match the width of the content */
   max-width: 1200px; /* Set a maximum width */
@@ -279,7 +267,7 @@ body.dark-mode ::selection {
 }
 
 body.dark-mode .masthead.top-bar {
-  position: relative; /* Align relative to the page */
+  position: fixed; /* Align relative to the page */
   left: 0; /* Align to the leftmost edge */
   width: 100%; /* Match the width of the content */
   max-width: 1200px; /* Set a maximum width */
