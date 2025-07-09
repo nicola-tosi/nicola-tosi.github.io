@@ -17,6 +17,8 @@
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
     margin-left: 0px; /* Align with the left table of contents */
+    position: fixed;
+    top: 0; /* Fix to the top of the viewport */
 
     @include breakpoint($x-large) {
       max-width: $x-large;
