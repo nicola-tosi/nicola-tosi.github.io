@@ -212,8 +212,8 @@ body.dark-mode {
 
 /* Ensure the top bar is left-aligned with the leftmost content of the page */
 .masthead.top-bar {
-  position: relative; /* Align relative to the page */
-  left: 0; /* Align to the leftmost edge */
+  // position: relative; /* Align relative to the page */
+  // left: 0; /* Align to the leftmost edge */
   width: 100%; /* Match the width of the content */
   max-width: 1200px; /* Set a maximum width */
   background-color: $background-light !important; /* Use variable for light mode */
