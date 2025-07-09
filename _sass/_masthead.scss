@@ -3,8 +3,8 @@
    ========================================================================== */
 
 .masthead {
-  position: fixed;
-  left: 200px; /* Fix to the left of the viewport */
+  position: relative;
+  // top: 0; /* Fix to the top of the viewport */
 
   border-bottom: 2px solid $border-color;
   -webkit-animation: intro 0.3s both;
