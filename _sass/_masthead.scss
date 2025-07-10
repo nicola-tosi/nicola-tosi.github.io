@@ -82,13 +82,3 @@ body.dark-mode .masthead__menu-item a {
   color: inherit !important; /* Inherit text color from parent */
 }
 
-body.dark-mode,
-body.dark-mode html {
-  background-color: $background-dark !important;
-}
-
-body.dark-mode footer,
-body.dark-mode .site-footer {
-  background-color: $background-dark !important;
-  color: $text-dark !important;
-}
