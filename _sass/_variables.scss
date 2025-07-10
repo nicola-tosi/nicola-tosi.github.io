@@ -158,7 +158,7 @@ $text-light: #000000;
 
 /* Define variables for dark mode */
 $background-dark: #121212;
-$text-dark: #ffffff;
+$text-dark: $border-color; //#ffffff;
 
 /* Default styles */
 body {
