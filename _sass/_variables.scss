@@ -210,6 +210,17 @@ body.dark-mode .top-bar {
   font-weight: bold;
 }
 
+body.light-mode .masthead {
+  background-color: $background-light !important; /* Use variable for light mode */
+  color:  #43a5cc; //$text-light;
+}
+
+body.dark-mode .masthead {
+  background-color: $background-dark !important; /* Use variable for dark mode */
+  color:  #43a5cc; //$text-dark !important;
+  // border-bottom: 2px solid $text-dark !important;
+}
+
 body.light-mode .masthead.top-bar {
   background-color: $background-light !important; /* Use variable for light mode */
   color:  #43a5cc; //$text-light;
