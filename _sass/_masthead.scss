@@ -17,6 +17,7 @@
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
+    color:  #43a5cc;
     margin-left: -30px; /* Align with the left table of contents */
     
     @include breakpoint($x-large) {
