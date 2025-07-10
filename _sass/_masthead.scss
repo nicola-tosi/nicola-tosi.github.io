@@ -4,7 +4,7 @@
 
 .masthead {
   position: relative; /* Allow masthead to scroll with the page */
-  left: -20px; /* Shift masthead 20px to the left */
+  left: -100px; /* Shift masthead 100px to the left */
   border-bottom: 2px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
