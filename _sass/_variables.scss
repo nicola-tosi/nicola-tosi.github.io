@@ -163,13 +163,13 @@ $text-dark: #ffffff;
 /* Default styles */
 body {
   background-color: $background-light;
-  color: $text-light;
+  color:  #43a5cc; //$text-light;
 }
 
 /* Dark mode styles */
 body.dark-mode {
   background-color: $background-dark;
-  color: $text-dark;
+  color:  #43a5cc; //$text-dark;
 }
 
 /* Ensure consistent position and alignment for the dark mode toggle button */
