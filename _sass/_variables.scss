@@ -173,18 +173,29 @@ body.dark-mode {
 }
 
 /* Ensure consistent position and alignment for the dark mode toggle button */
+// #dark-mode-toggle {
+//   position: fixed; /* Stay fixed in the viewport */
+//   top: 20px;
+//   right: 15px;
+//   z-index: 9999; /* Ensure it stays above the top bar */
+//   background-color: #f0f0f0;
+//   border: none;
+//   padding: 8px 12px; /* Adjusted padding for smaller font */
+//   font-size: 12px; /* Smaller font size */
+//   cursor: pointer;
+//   border-radius: 5px;
+//   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+// }
+
 #dark-mode-toggle {
-  position: fixed; /* Stay fixed in the viewport */
+  position: fixed;
   top: 20px;
   right: 15px;
-  z-index: 9999; /* Ensure it stays above the top bar */
-  background-color: #f0f0f0;
+  z-index: 9999;
+  background: none;
   border: none;
-  padding: 8px 12px; /* Adjusted padding for smaller font */
-  font-size: 12px; /* Smaller font size */
+  font-size: 24px;
   cursor: pointer;
-  border-radius: 5px;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 #dark-mode-toggle:hover {
