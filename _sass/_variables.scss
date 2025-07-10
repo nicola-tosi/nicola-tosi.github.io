@@ -196,6 +196,12 @@ body.dark-mode {
   border: none;
   font-size: 24px;
   cursor: pointer;
+  width: 40px;         // Set width
+  height: 40px;        // Set height
+  display: flex;       // Center icon
+  align-items: center;
+  justify-content: center;
+  padding: 0;          // Remove extra padding
 }
 
 #dark-mode-toggle:hover {
