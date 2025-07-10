@@ -19,7 +19,7 @@
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
-    margin-left: 100px; /* Align with the left table of contents */
+    margin-left: 80px; /* Align with the left table of contents */
     
     @include breakpoint($x-large) {
       max-width: $x-large;
