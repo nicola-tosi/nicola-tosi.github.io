@@ -202,6 +202,21 @@ body.dark-mode {
   background-color: #e0e0e0;
 }
 
+body.dark-mode #dark-mode-toggle {
+  background-color: #fff;
+  color: #222; /* Optional: make the sun icon dark for contrast */
+  border-radius: 50%; /* Optional: make it circular */
+  transition: background 0.2s;
+}
+
+body:not(.dark-mode) #dark-mode-toggle {
+  background: #222;         // dark background for contrast
+  color: #fff;              // white moon icon
+  border-radius: 50%;       // make it circular
+  padding: 4px 8px;         // adjust as needed for size
+  transition: background 0.2s;
+}
+
 /* Top bar styles for dark mode */
 .top-bar {
   background-color: $background-light !important;
