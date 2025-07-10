@@ -188,7 +188,7 @@ body.dark-mode {
 // }
 
 #dark-mode-toggle {
-  position: fixed;
+  position: absolute; // fixed;
   top: 40px;
   right: 300px;
   z-index: 9999;
@@ -213,7 +213,7 @@ body:not(.dark-mode) #dark-mode-toggle {
   background: #222;         // dark background for contrast
   color: #fff;              // white moon icon
   border-radius: 50%;       // make it circular
-  padding: 4px 8px;         // adjust as needed for size
+  // padding: 4px 8px;         // adjust as needed for size
   transition: background 0.2s;
 }
 
