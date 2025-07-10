@@ -4,21 +4,21 @@
 
 .masthead {
   position: relative; /* Allow masthead to scroll with the page */
-  left: -20px; /* Shift masthead 100px to the left */
   border-bottom: 2px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.15s;
           animation-delay: 0.15s;
   z-index: 20;
+  color:  #43a5cc;
+
 
   &__inner-wrap {
     @include container;
     @include clearfix;
     padding: 1em 1em 1em;
     font-family: $sans-serif-narrow;
-    color:  #43a5cc;
-    margin-left: -30px; /* Align with the left table of contents */
+    margin-left: -33px; /* Align with the left table of contents */
     
     @include breakpoint($x-large) {
       max-width: $x-large;
