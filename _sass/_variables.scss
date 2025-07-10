@@ -174,8 +174,10 @@ body.dark-mode {
 
 /* Ensure consistent position and alignment for the dark mode toggle button */
 #dark-mode-toggle {
-  position: relative; /* Adapt position dynamically */
-  margin: 0 auto; /* Center align within the top bar */
+  position: fixed; /* Stay fixed in the viewport */
+  top: 20px;
+  right: 15px;
+  z-index: 9999; /* Ensure it stays above the top bar */
   background-color: #f0f0f0;
   border: none;
   padding: 8px 12px; /* Adjusted padding for smaller font */
