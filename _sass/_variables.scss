@@ -337,3 +337,8 @@ body.dark-mode footer {
   background-color: #121212 !important; // or use $background-dark
   color: #fff !important;               // optional: make text light
 }
+
+body.dark-mode .container {
+  background-color: #121212 !important; // or use $background-dark
+  color: #fff !important;               // optional: make text light
+}
