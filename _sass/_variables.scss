@@ -332,13 +332,9 @@ body.dark-mode .masthead.top-bar {
   // border-bottom: 2px solid $text-dark !important;
 }
 
-body.dark-mode .site-footer,
+body.dark-mode .page-footer,
 body.dark-mode footer {
   background-color: #121212 !important; // or use $background-dark
   color: #fff !important;               // optional: make text light
 }
 
-body.dark-mode .masthead.bottom-bar {
-  background-color: #121212 !important; // or use $background-dark
-  color: #fff !important;               // optional: make text light
-}
