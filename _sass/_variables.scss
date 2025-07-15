@@ -342,3 +342,10 @@ body.dark-mode u,
 body.dark-mode ins{
   border-bottom: 1px solid $text-dark; // or any color you prefer
 }
+
+body.dark-mode .fa,
+body.dark-mode .fa-fw, 
+body.dark-mode .fa-map-marker{
+  color: #fff !important;
+  fill: #fff !important;
+}
