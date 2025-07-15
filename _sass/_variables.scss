@@ -339,7 +339,6 @@ body.dark-mode footer {
 }
 
 body.dark-mode u,
-body.dark-mode ins,
-body.dark-mode a {
+body.dark-mode ins{
   border-bottom: 2px solid $text-dark; // or any color you prefer
 }
