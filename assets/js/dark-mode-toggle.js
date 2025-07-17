@@ -26,7 +26,7 @@
 
   // Helper to set icon
   function setIcon(isDark) {
-    toggleButton.textContent = isDark ? '☀' : '☽';
+    toggleButton.textContent = isDark ? '\u2600' : '☽'; //☀
   }
 
   // Check localStorage for user preference
