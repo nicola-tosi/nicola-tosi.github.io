@@ -29,7 +29,7 @@ author_profile: true
 <br clear="left"/>
 
 ## Former students and postdocs:
-Michelle Colantoni (2025) - *MSc* \
+[Michelle Colantoni](https://www.physics.ox.ac.uk/our-people/colantoni) (2025) - *MSc* \
 [Aleeda Charly](https://www.researchgate.net/profile/Aleeda-Charly-2) (2024-2025) - *MSc* \
 [Philipp Baumeister](https://philippbaumeister.github.io/) (2017-2023) - *MSc and PhD* \
 [Siddhant Agarwal](https://www.researchgate.net/profile/Siddhant-Agarwal-3) (2018-2022) - *PhD* \
