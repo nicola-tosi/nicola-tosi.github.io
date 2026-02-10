@@ -28,6 +28,12 @@ author_profile: true
 *Thermal and outgassing evolution of rocky exoplanets*
 <br clear="left"/>
 
+<img align="left" src="../images/amandine.jpg" alt="" width="160"/>  
+**Amandine Le Roy** - *MSc student* \
+*Parametrization of heat piping effects in 1D thermal evolution models*
+<br clear="left"/>
+
+
 ## Former students and postdocs:
 [Michelle Colantoni](https://www.physics.ox.ac.uk/our-people/colantoni) (2025) - *MSc* \
 [Aleeda Charly](https://www.researchgate.net/profile/Aleeda-Charly-2) (2024-2025) - *MSc* \
