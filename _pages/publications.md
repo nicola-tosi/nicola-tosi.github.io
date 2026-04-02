@@ -17,6 +17,12 @@ author_profile: true
 
 <u>Underlined names</u> indicate supervised PhDs and PostDocs
 
+2026
+======
+- <u>Cano Amoros M.</u>, N. Nettelmann, **N. Tosi** and S. Mazevet (2026). [Revised entropy of the AQUA equation of state
+](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202557580). Astronomy \& Astrophysics, doi:10.1051/0004-6361/202557580. In press.
+- G. Nishiyama, F. Preusker, A. Broquet, A. Stark, H. Hussmann, E. Hauber and **N. Tosi** (2026). [First global map of Mercury’s surface roughness down to kilometric baselines: Implications for the planet’s Geologic Evolution](https://iopscience.iop.org/article/10.3847/PSJ/ae447c). The Planetary Science Journal, 7, 59, doi: 10.3847/PSJ/ae447c.
+
 2025
 ======
 - **Tosi N.**, <u>F. Schulz</u>, M. Walterová and S. Padovan (2025). [The influence of spin–orbit resonances on the evolution of Mercury’s mantle and crust](https://www.sciencedirect.com/science/article/pii/S0019103525001770?utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_medium=email&utm_acid=307496231&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&CMX_ID=&utm_in=DM568979&utm_source=AC_). Icarus, 439, 116630, doi:10.1016/j.icarus.2025.116630. [*Journal's cover.*](../images/Icarus_Cover2.jpg)
