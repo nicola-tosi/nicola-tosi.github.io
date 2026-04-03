@@ -20,8 +20,8 @@ author_profile: true
 2026
 ======
 - <u>Cano Amoros M.</u>, N. Nettelmann, **N. Tosi** and S. Mazevet (2026). [Revised entropy of the AQUA equation of state
-](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202557580). Astronomy \& Astrophysics, doi:10.1051/0004-6361/202557580. In press.
-- G. Nishiyama, F. Preusker, A. Broquet, A. Stark, H. Hussmann, E. Hauber and **N. Tosi** (2026). [First global map of Mercury’s surface roughness down to kilometric baselines: Implications for the planet’s Geologic Evolution](https://iopscience.iop.org/article/10.3847/PSJ/ae447c). The Planetary Science Journal, 7, 59, doi:10.3847/PSJ/ae447c.
+](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202557580). Astronomy & Astrophysics, doi:10.1051/0004-6361/202557580. *In press*.
+- G. Nishiyama, F. Preusker, A. Broquet, A. Stark, H. Hussmann, E. Hauber and **N. Tosi** (2026). [First global map of Mercury’s surface roughness down to kilometric baselines: Implications for the planet’s geologic evolution](https://iopscience.iop.org/article/10.3847/PSJ/ae447c). The Planetary Science Journal, 7, 59, doi:10.3847/PSJ/ae447c.
 
 2025
 ======
