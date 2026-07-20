@@ -36,7 +36,7 @@ author_profile: true
 [Siddhant Agarwal](https://www.researchgate.net/profile/Siddhant-Agarwal-3) (2018-2022) - *PhD* \
 Falko Schulz (2017-2021) - *MSc and PhD* \
 [Vojtěch Patočka](http://geo.mff.cuni.cz/~patocka/)  (2018-2020) - *PostDoc* \
-[Maxime Maurice](https://www.researchgate.net/profile/Maxime-Maurice) (2015-2020) - *MSc and PhD* \
+[Maxime Maurice](https://lmv.uca.fr/maurice-maxime/) (2015-2020) - *MSc and PhD* \
 [Shuoran Yu](https://www.researchgate.net/profile/Shuoran-Yu) (2017-2020) - *PhD* (co-advising)\
 [Athanasia Nikolaou](https://www.researchgate.net/profile/Athanasia_Nikolaou) (2015-2019) - *PhD* \
 [Oliver Henke-Seemann](https://www.geo.fu-berlin.de/en/geol/fachrichtungen/planet/projects/geodyn/staff_noack/Doctoral-candidates/Henke-Seemann/index.html) (2019) - *BSc* \
