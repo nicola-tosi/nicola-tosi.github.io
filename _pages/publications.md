@@ -19,7 +19,7 @@ author_profile: true
 
 2026
 ======
-- Namur O., B. Charlier, C. Cartier, K. Hakim, J. Villeneuve, **N. Tosi**, J. Berndt, S. Klemme, T. Hammouda, M. Maurice, M. Boyet, C. Dalou and Oliver Shorttle (2026). [Carbon distribution in planet Mercury from magma ocean evolution to graphite crust and core composition](https://www.nature.com/articles/s41467-026-75458-y#Abs1). Nature Communications, 17, 9227, doi:10.1038/s41467-026-75458-y.
+- Namur O., B. Charlier, C. Cartier, K. Hakim, J. Villeneuve, **N. Tosi**, J. Berndt, S. Klemme, T. Hammouda, M. Maurice, M. Boyet, C. Dalou and O. Shorttle (2026). [Carbon distribution in planet Mercury from magma ocean evolution to graphite crust and core composition](https://www.nature.com/articles/s41467-026-75458-y#Abs1). Nature Communications, 17, 9227, doi:10.1038/s41467-026-75458-y.
 - <u>Cano Amoros M.</u>, N. Nettelmann, **N. Tosi** and S. Mazevet (2026). [Revised entropy of the AQUA equation of state
 ](https://www.aanda.org/component/article?access=doi&doi=10.1051/0004-6361/202557580). Astronomy & Astrophysics, 708, A324, doi:10.1051/0004-6361/202557580. 
 - Nishiyama G., F. Preusker, A. Broquet, A. Stark, H. Hussmann, E. Hauber and **N. Tosi** (2026). [First global map of Mercury’s surface roughness down to kilometric baselines: Implications for the planet’s geologic evolution](https://iopscience.iop.org/article/10.3847/PSJ/ae447c). The Planetary Science Journal, 7, 59, doi:10.3847/PSJ/ae447c.
