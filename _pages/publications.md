@@ -19,6 +19,7 @@ author_profile: true
 
 2026
 ======
+- Edmund E., Z. M. Geballe, A. Rivoldini, **N. Tosi** , S. Chariton, V B. Prakapenka and A. F. Goncharov (2026). Thermal conductivity of iron at the conditions of small planetary cores. Journal of Geophysical Research - Planets, 131, e2025JE009205, doi:10.1029/2025JE009205.
 - Namur O., B. Charlier, C. Cartier, K. Hakim, J. Villeneuve, **N. Tosi**, J. Berndt, S. Klemme, T. Hammouda, M. Maurice, M. Boyet, C. Dalou and O. Shorttle (2026). [Carbon distribution in planet Mercury from magma ocean evolution to graphite crust and core composition](https://www.nature.com/articles/s41467-026-75458-y#Abs1). Nature Communications, 17, 9227, doi:10.1038/s41467-026-75458-y.
 - Nishiyama G., A. Broquet, **N. Tosi**, F. Preusker, A. Stark, H. Hussmann, E. Hauber (2026). [Underestimation of planetary contraction due to obscuration by surface roughness: The case of Mercury](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026GL124067). Geophysical Research Letters, 53, e2026GL124067, doi:10.1029/2026GL124067.
 - Nishiyama G., F. Preusker, A. Broquet, A. Stark, H. Hussmann, E. Hauber and **N. Tosi** (2026). [First global map of Mercury’s surface roughness down to kilometric baselines: Implications for the planet’s geologic evolution](https://iopscience.iop.org/article/10.3847/PSJ/ae447c). The Planetary Science Journal, 7, 59, doi:10.3847/PSJ/ae447c.
